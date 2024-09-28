@@ -1,0 +1,1807 @@
+Australia,1896 Summer Olympics,2,0,0,2,Low Performance
+Austria,1896 Summer Olympics,2,1,2,5,Low Performance
+Denmark,1896 Summer Olympics,1,2,3,6,Low Performance
+France,1896 Summer Olympics,5,4,2,11,Low Performance
+Germany,1896 Summer Olympics,6,5,2,13,Low Performance
+Great Britain,1896 Summer Olympics,2,3,2,7,Low Performance
+Greece,1896 Summer Olympics,10,18,19,47,Low Performance
+Hungary,1896 Summer Olympics,2,1,3,6,Low Performance
+Mixed team,1896 Summer Olympics,1,0,1,2,Low Performance
+Switzerland,1896 Summer Olympics,1,2,0,3,Low Performance
+United States,1896 Summer Olympics,11,7,2,20,Low Performance
+Australia,1900 Summer Olympics,0,0,3,3,Low Performance
+Austria,1900 Summer Olympics,0,3,3,6,Low Performance
+Belgium,1900 Summer Olympics,6,6,6,18,Low Performance
+Bohemia,1900 Summer Olympics,0,1,1,2,Low Performance
+Cuba,1900 Summer Olympics,1,1,0,2,Low Performance
+Denmark,1900 Summer Olympics,1,3,2,6,Low Performance
+France,1900 Summer Olympics,31,41,40,112,High Performance
+Germany,1900 Summer Olympics,4,3,2,9,Low Performance
+Great Britain,1900 Summer Olympics,20,8,9,37,Low Performance
+Hungary,1900 Summer Olympics,1,2,2,5,Low Performance
+India,1900 Summer Olympics,0,2,0,2,Low Performance
+Italy,1900 Summer Olympics,3,2,0,5,Low Performance
+Mixed team,1900 Summer Olympics,1,2,3,6,Low Performance
+Netherlands,1900 Summer Olympics,1,2,3,6,Low Performance
+Norway,1900 Summer Olympics,0,2,3,5,Low Performance
+Spain,1900 Summer Olympics,1,0,0,1,Low Performance
+Sweden,1900 Summer Olympics,0,0,1,1,Low Performance
+Switzerland,1900 Summer Olympics,6,3,1,10,Low Performance
+United States,1900 Summer Olympics,20,13,15,48,Low Performance
+Canada,1904 Summer Olympics,4,1,1,6,Low Performance
+Cuba,1904 Summer Olympics,3,0,0,3,Low Performance
+Germany,1904 Summer Olympics,5,4,5,14,Low Performance
+Great Britain,1904 Summer Olympics,1,1,0,2,Low Performance
+Greece,1904 Summer Olympics,1,0,1,2,Low Performance
+Hungary,1904 Summer Olympics,2,1,1,4,Low Performance
+Mixed team,1904 Summer Olympics,1,0,0,1,Low Performance
+United States,1904 Summer Olympics,80,85,83,248,High Performance
+Australia,1906 Intercalated,0,0,3,3,Low Performance
+Austria,1906 Intercalated,3,3,3,9,Low Performance
+Belgium,1906 Intercalated,2,2,3,7,Low Performance
+Bohemia,1906 Intercalated,0,0,2,2,Low Performance
+Canada,1906 Intercalated,1,1,0,2,Low Performance
+Denmark,1906 Intercalated,3,2,1,6,Low Performance
+Finland,1906 Intercalated,2,1,1,4,Low Performance
+France,1906 Intercalated,15,9,16,40,Low Performance
+Germany,1906 Intercalated,4,6,5,15,Low Performance
+Great Britain,1906 Intercalated,8,11,5,24,Low Performance
+Greece,1906 Intercalated,8,14,13,35,Low Performance
+Hungary,1906 Intercalated,2,5,3,10,Low Performance
+Italy,1906 Intercalated,7,6,3,16,Low Performance
+Netherlands,1906 Intercalated,0,1,2,3,Low Performance
+Norway,1906 Intercalated,1,1,0,2,Low Performance
+Sweden,1906 Intercalated,2,5,7,14,Low Performance
+Switzerland,1906 Intercalated,4,3,1,8,Low Performance
+United States,1906 Intercalated,12,6,6,24,Low Performance
+Australasia,1908 Summer Olympics,1,2,2,5,Low Performance
+Austria,1908 Summer Olympics,0,0,1,1,Low Performance
+Belgium,1908 Summer Olympics,1,5,2,8,Low Performance
+Bohemia,1908 Summer Olympics,0,0,2,2,Low Performance
+Canada,1908 Summer Olympics,3,3,10,16,Low Performance
+Denmark,1908 Summer Olympics,0,2,3,5,Low Performance
+Finland,1908 Summer Olympics,1,1,3,5,Low Performance
+France,1908 Summer Olympics,5,5,9,19,Low Performance
+Germany,1908 Summer Olympics,3,5,5,13,Low Performance
+Great Britain,1908 Summer Olympics,56,51,39,146,High Performance
+Greece,1908 Summer Olympics,0,3,1,4,Low Performance
+Hungary,1908 Summer Olympics,3,4,2,9,Low Performance
+Italy,1908 Summer Olympics,2,2,0,4,Low Performance
+Netherlands,1908 Summer Olympics,0,0,2,2,Low Performance
+Norway,1908 Summer Olympics,2,3,3,8,Low Performance
+Russian Federation,1908 Summer Olympics,1,2,0,3,Low Performance
+South Africa,1908 Summer Olympics,1,1,0,2,Low Performance
+Sweden,1908 Summer Olympics,8,6,11,25,Low Performance
+United States,1908 Summer Olympics,23,12,12,47,Low Performance
+Australasia,1912 Summer Olympics,2,2,3,7,Low Performance
+Austria,1912 Summer Olympics,0,2,2,4,Low Performance
+Belgium,1912 Summer Olympics,2,1,3,6,Low Performance
+Canada,1912 Summer Olympics,3,2,3,8,Low Performance
+Denmark,1912 Summer Olympics,1,6,5,12,Low Performance
+Finland,1912 Summer Olympics,9,8,9,26,Low Performance
+France,1912 Summer Olympics,7,5,3,15,Low Performance
+Germany,1912 Summer Olympics,6,13,7,26,Low Performance
+Great Britain,1912 Summer Olympics,10,15,16,41,Low Performance
+Greece,1912 Summer Olympics,1,0,1,2,Low Performance
+Hungary,1912 Summer Olympics,3,2,3,8,Low Performance
+Italy,1912 Summer Olympics,5,1,2,8,Low Performance
+Netherlands,1912 Summer Olympics,0,0,3,3,Low Performance
+Norway,1912 Summer Olympics,3,2,5,10,Low Performance
+Russian Federation,1912 Summer Olympics,0,2,3,5,Low Performance
+South Africa,1912 Summer Olympics,4,2,0,6,Low Performance
+Sweden,1912 Summer Olympics,23,25,17,65,High Performance
+Switzerland,1912 Summer Olympics,1,0,0,1,Low Performance
+United States,1912 Summer Olympics,26,19,19,64,High Performance
+Australia,1920 Summer Olympics,0,2,1,3,Low Performance
+Belgium,1920 Summer Olympics,16,12,14,42,Low Performance
+Brazil,1920 Summer Olympics,1,1,1,3,Low Performance
+Canada,1920 Summer Olympics,3,3,3,9,Low Performance
+Czechoslovakia,1920 Summer Olympics,0,0,2,2,Low Performance
+Denmark,1920 Summer Olympics,3,9,1,13,Low Performance
+Estonia,1920 Summer Olympics,1,2,0,3,Low Performance
+Finland,1920 Summer Olympics,15,10,9,34,Low Performance
+France,1920 Summer Olympics,9,20,13,42,Low Performance
+Great Britain,1920 Summer Olympics,14,16,13,43,Low Performance
+Greece,1920 Summer Olympics,0,1,0,1,Low Performance
+Italy,1920 Summer Olympics,14,6,5,25,Low Performance
+Japan,1920 Summer Olympics,0,2,0,2,Low Performance
+Luxembourg,1920 Summer Olympics,0,1,0,1,Low Performance
+Netherlands,1920 Summer Olympics,4,2,5,11,Low Performance
+New Zealand,1920 Summer Olympics,0,0,1,1,Low Performance
+Norway,1920 Summer Olympics,13,10,9,32,Low Performance
+South Africa,1920 Summer Olympics,3,4,3,10,Low Performance
+Spain,1920 Summer Olympics,0,2,0,2,Low Performance
+Sweden,1920 Summer Olympics,19,20,25,64,High Performance
+Switzerland,1920 Summer Olympics,2,2,7,11,Low Performance
+United States,1920 Summer Olympics,41,27,27,95,High Performance
+Argentina,1924 Summer Olympics,1,3,2,6,Low Performance
+Australia,1924 Summer Olympics,3,1,2,6,Low Performance
+Austria,1924 Summer Olympics,0,3,1,4,Low Performance
+Belgium,1924 Summer Olympics,3,7,3,13,Low Performance
+Canada,1924 Summer Olympics,0,3,1,4,Low Performance
+Czechoslovakia,1924 Summer Olympics,1,4,5,10,Low Performance
+Denmark,1924 Summer Olympics,2,6,3,11,Low Performance
+Estonia,1924 Summer Olympics,1,1,4,6,Low Performance
+Finland,1924 Summer Olympics,14,13,10,37,Low Performance
+France,1924 Summer Olympics,14,15,12,41,Low Performance
+Great Britain,1924 Summer Olympics,9,14,12,35,Low Performance
+Greece,1924 Summer Olympics,1,0,0,1,Low Performance
+Haiti,1924 Summer Olympics,0,0,1,1,Low Performance
+Hungary,1924 Summer Olympics,2,4,4,10,Low Performance
+Ireland,1924 Summer Olympics,0,1,1,2,Low Performance
+Italy,1924 Summer Olympics,8,3,5,16,Low Performance
+Japan,1924 Summer Olympics,0,0,1,1,Low Performance
+Luxembourg,1924 Summer Olympics,1,1,0,2,Low Performance
+Monaco,1924 Summer Olympics,0,0,1,1,Low Performance
+Netherlands,1924 Summer Olympics,4,1,6,11,Low Performance
+New Zealand,1924 Summer Olympics,0,0,1,1,Low Performance
+Norway,1924 Summer Olympics,5,2,3,10,Low Performance
+Poland,1924 Summer Olympics,0,1,1,2,Low Performance
+Portugal,1924 Summer Olympics,0,0,1,1,Low Performance
+Romania,1924 Summer Olympics,0,0,1,1,Low Performance
+South Africa,1924 Summer Olympics,1,1,1,3,Low Performance
+Sweden,1924 Summer Olympics,4,13,12,29,Low Performance
+Switzerland,1924 Summer Olympics,7,8,10,25,Low Performance
+United States,1924 Summer Olympics,45,27,27,99,High Performance
+Uruguay,1924 Summer Olympics,1,0,0,1,Low Performance
+Yugoslavia,1924 Summer Olympics,2,0,0,2,Low Performance
+Austria,1924 Winter Olympics,2,1,0,3,Low Performance
+Belgium,1924 Winter Olympics,0,0,1,1,Low Performance
+Canada,1924 Winter Olympics,1,0,0,1,Low Performance
+Finland,1924 Winter Olympics,4,4,3,11,Low Performance
+France,1924 Winter Olympics,0,0,3,3,Low Performance
+Great Britain,1924 Winter Olympics,1,1,2,4,Low Performance
+Mixed team,1924 Winter Olympics,1,0,0,1,Low Performance
+Norway,1924 Winter Olympics,4,7,6,17,Low Performance
+Sweden,1924 Winter Olympics,1,1,0,2,Low Performance
+Switzerland,1924 Winter Olympics,2,0,1,3,Low Performance
+United States,1924 Winter Olympics,1,2,1,4,Low Performance
+Argentina,1928 Summer Olympics,3,3,1,7,Low Performance
+Australia,1928 Summer Olympics,1,2,1,4,Low Performance
+Austria,1928 Summer Olympics,3,0,1,4,Low Performance
+Belgium,1928 Summer Olympics,0,1,2,3,Low Performance
+Canada,1928 Summer Olympics,4,4,7,15,Low Performance
+Chile,1928 Summer Olympics,0,1,0,1,Low Performance
+Czechoslovakia,1928 Summer Olympics,2,5,2,9,Low Performance
+Denmark,1928 Summer Olympics,3,2,4,9,Low Performance
+Egypt,1928 Summer Olympics,2,1,1,4,Low Performance
+Estonia,1928 Summer Olympics,2,1,2,5,Low Performance
+Finland,1928 Summer Olympics,8,8,9,25,Low Performance
+France,1928 Summer Olympics,7,12,6,25,Low Performance
+Germany,1928 Summer Olympics,11,9,19,39,Low Performance
+Great Britain,1928 Summer Olympics,4,11,7,22,Low Performance
+Haiti,1928 Summer Olympics,0,1,0,1,Low Performance
+Hungary,1928 Summer Olympics,5,5,0,10,Low Performance
+India,1928 Summer Olympics,1,0,0,1,Low Performance
+Ireland,1928 Summer Olympics,1,0,0,1,Low Performance
+Italy,1928 Summer Olympics,7,6,7,20,Low Performance
+Japan,1928 Summer Olympics,2,2,1,5,Low Performance
+Luxembourg,1928 Summer Olympics,1,0,0,1,Low Performance
+Netherlands,1928 Summer Olympics,8,10,5,23,Low Performance
+New Zealand,1928 Summer Olympics,1,0,0,1,Low Performance
+Norway,1928 Summer Olympics,1,2,1,4,Low Performance
+Philippines,1928 Summer Olympics,0,0,1,1,Low Performance
+Poland,1928 Summer Olympics,2,1,4,7,Low Performance
+Portugal,1928 Summer Olympics,0,0,1,1,Low Performance
+South Africa,1928 Summer Olympics,1,0,2,3,Low Performance
+Spain,1928 Summer Olympics,1,0,0,1,Low Performance
+Sweden,1928 Summer Olympics,7,6,12,25,Low Performance
+Switzerland,1928 Summer Olympics,7,6,4,17,Low Performance
+United States,1928 Summer Olympics,22,18,16,56,High Performance
+Uruguay,1928 Summer Olympics,1,0,0,1,Low Performance
+Yugoslavia,1928 Summer Olympics,1,1,3,5,Low Performance
+Austria,1928 Winter Olympics,0,3,1,4,Low Performance
+Belgium,1928 Winter Olympics,0,0,1,1,Low Performance
+Canada,1928 Winter Olympics,1,0,0,1,Low Performance
+Czechoslovakia,1928 Winter Olympics,0,0,1,1,Low Performance
+Finland,1928 Winter Olympics,2,1,1,4,Low Performance
+France,1928 Winter Olympics,1,0,0,1,Low Performance
+Germany,1928 Winter Olympics,0,0,1,1,Low Performance
+Great Britain,1928 Winter Olympics,0,0,1,1,Low Performance
+Norway,1928 Winter Olympics,6,4,5,15,Low Performance
+Sweden,1928 Winter Olympics,2,2,1,5,Low Performance
+Switzerland,1928 Winter Olympics,0,0,1,1,Low Performance
+United States,1928 Winter Olympics,2,2,2,6,Low Performance
+Argentina,1932 Summer Olympics,3,1,0,4,Low Performance
+Australia,1932 Summer Olympics,3,1,1,5,Low Performance
+Austria,1932 Summer Olympics,1,1,3,5,Low Performance
+Belgium,1932 Summer Olympics,0,0,1,1,Low Performance
+Canada,1932 Summer Olympics,2,5,9,16,Low Performance
+Czechoslovakia,1932 Summer Olympics,1,3,2,6,Low Performance
+Denmark,1932 Summer Olympics,0,5,3,8,Low Performance
+Finland,1932 Summer Olympics,5,8,12,25,Low Performance
+France,1932 Summer Olympics,11,5,4,20,Low Performance
+Germany,1932 Summer Olympics,5,12,7,24,Low Performance
+Great Britain,1932 Summer Olympics,5,7,5,17,Low Performance
+Hungary,1932 Summer Olympics,6,5,5,16,Low Performance
+India,1932 Summer Olympics,1,0,0,1,Low Performance
+Ireland,1932 Summer Olympics,2,0,0,2,Low Performance
+Italy,1932 Summer Olympics,12,12,12,36,Low Performance
+Japan,1932 Summer Olympics,7,7,4,18,Low Performance
+Latvia,1932 Summer Olympics,0,1,0,1,Low Performance
+Mexico,1932 Summer Olympics,0,2,0,2,Low Performance
+Netherlands,1932 Summer Olympics,2,5,1,8,Low Performance
+New Zealand,1932 Summer Olympics,0,1,0,1,Low Performance
+Philippines,1932 Summer Olympics,0,0,3,3,Low Performance
+Poland,1932 Summer Olympics,3,2,4,9,Low Performance
+South Africa,1932 Summer Olympics,2,0,3,5,Low Performance
+Spain,1932 Summer Olympics,0,0,1,1,Low Performance
+Sweden,1932 Summer Olympics,10,5,9,24,Low Performance
+Switzerland,1932 Summer Olympics,0,1,0,1,Low Performance
+United States,1932 Summer Olympics,44,36,30,110,High Performance
+Uruguay,1932 Summer Olympics,0,0,1,1,Low Performance
+Austria,1932 Winter Olympics,1,1,0,2,Low Performance
+Canada,1932 Winter Olympics,1,1,5,7,Low Performance
+Finland,1932 Winter Olympics,1,1,1,3,Low Performance
+France,1932 Winter Olympics,1,0,0,1,Low Performance
+Germany,1932 Winter Olympics,0,0,2,2,Low Performance
+Hungary,1932 Winter Olympics,0,0,1,1,Low Performance
+Norway,1932 Winter Olympics,3,4,3,10,Low Performance
+Sweden,1932 Winter Olympics,1,2,0,3,Low Performance
+Switzerland,1932 Winter Olympics,0,1,0,1,Low Performance
+United States,1932 Winter Olympics,6,4,2,12,Low Performance
+Argentina,1936 Summer Olympics,2,2,3,7,Low Performance
+Australia,1936 Summer Olympics,0,0,1,1,Low Performance
+Austria,1936 Summer Olympics,5,7,5,17,Low Performance
+Belgium,1936 Summer Olympics,0,0,3,3,Low Performance
+Canada,1936 Summer Olympics,1,3,5,9,Low Performance
+Czechoslovakia,1936 Summer Olympics,3,5,1,9,Low Performance
+Denmark,1936 Summer Olympics,0,2,3,5,Low Performance
+Egypt,1936 Summer Olympics,2,1,2,5,Low Performance
+Estonia,1936 Summer Olympics,2,2,3,7,Low Performance
+Finland,1936 Summer Olympics,8,6,6,20,Low Performance
+France,1936 Summer Olympics,7,6,6,19,Low Performance
+Germany,1936 Summer Olympics,38,31,32,101,High Performance
+Great Britain,1936 Summer Olympics,4,7,3,14,Low Performance
+Hungary,1936 Summer Olympics,10,1,5,16,Low Performance
+India,1936 Summer Olympics,1,0,0,1,Low Performance
+Italy,1936 Summer Olympics,9,13,5,27,Low Performance
+Japan,1936 Summer Olympics,6,4,10,20,Low Performance
+Latvia,1936 Summer Olympics,0,1,1,2,Low Performance
+Mexico,1936 Summer Olympics,0,0,3,3,Low Performance
+Netherlands,1936 Summer Olympics,6,4,7,17,Low Performance
+New Zealand,1936 Summer Olympics,1,0,0,1,Low Performance
+Norway,1936 Summer Olympics,1,3,2,6,Low Performance
+Philippines,1936 Summer Olympics,0,0,1,1,Low Performance
+Poland,1936 Summer Olympics,0,4,5,9,Low Performance
+Portugal,1936 Summer Olympics,0,0,1,1,Low Performance
+Romania,1936 Summer Olympics,0,1,0,1,Low Performance
+South Africa,1936 Summer Olympics,0,1,0,1,Low Performance
+Sweden,1936 Summer Olympics,6,5,10,21,Low Performance
+Switzerland,1936 Summer Olympics,4,9,5,18,Low Performance
+Türkiye,1936 Summer Olympics,1,0,1,2,Low Performance
+United States,1936 Summer Olympics,24,21,12,57,High Performance
+Yugoslavia,1936 Summer Olympics,0,1,0,1,Low Performance
+Austria,1936 Winter Olympics,1,1,2,4,Low Performance
+Canada,1936 Winter Olympics,0,1,0,1,Low Performance
+Finland,1936 Winter Olympics,1,2,3,6,Low Performance
+France,1936 Winter Olympics,0,0,1,1,Low Performance
+Germany,1936 Winter Olympics,3,3,0,6,Low Performance
+Great Britain,1936 Winter Olympics,1,1,1,3,Low Performance
+Hungary,1936 Winter Olympics,0,0,1,1,Low Performance
+Norway,1936 Winter Olympics,7,5,3,15,Low Performance
+Sweden,1936 Winter Olympics,2,2,3,7,Low Performance
+Switzerland,1936 Winter Olympics,1,2,0,3,Low Performance
+United States,1936 Winter Olympics,1,0,3,4,Low Performance
+Argentina,1948 Summer Olympics,3,3,1,7,Low Performance
+Australia,1948 Summer Olympics,2,6,5,13,Low Performance
+Austria,1948 Summer Olympics,2,2,4,8,Low Performance
+Belgium,1948 Summer Olympics,2,2,3,7,Low Performance
+Brazil,1948 Summer Olympics,0,0,1,1,Low Performance
+Canada,1948 Summer Olympics,0,2,2,4,Low Performance
+Cuba,1948 Summer Olympics,0,1,0,1,Low Performance
+Czechoslovakia,1948 Summer Olympics,6,2,3,11,Low Performance
+Denmark,1948 Summer Olympics,5,8,9,22,Low Performance
+Egypt,1948 Summer Olympics,2,2,1,5,Low Performance
+Finland,1948 Summer Olympics,10,8,6,24,Low Performance
+France,1948 Summer Olympics,11,6,15,32,Low Performance
+Great Britain,1948 Summer Olympics,4,16,7,27,Low Performance
+Hungary,1948 Summer Olympics,10,5,13,28,Low Performance
+India,1948 Summer Olympics,1,0,0,1,Low Performance
+Ireland,1948 Summer Olympics,0,0,1,1,Low Performance
+Islamic Republic of Iran,1948 Summer Olympics,0,0,1,1,Low Performance
+Italy,1948 Summer Olympics,9,12,10,31,Low Performance
+Jamaica,1948 Summer Olympics,1,2,0,3,Low Performance
+Mexico,1948 Summer Olympics,2,1,2,5,Low Performance
+Netherlands,1948 Summer Olympics,5,2,9,16,Low Performance
+Norway,1948 Summer Olympics,1,3,3,7,Low Performance
+Panama,1948 Summer Olympics,0,0,2,2,Low Performance
+Peru,1948 Summer Olympics,1,0,0,1,Low Performance
+Poland,1948 Summer Olympics,1,0,1,2,Low Performance
+Portugal,1948 Summer Olympics,0,1,1,2,Low Performance
+Puerto Rico,1948 Summer Olympics,0,0,1,1,Low Performance
+Republic of Korea,1948 Summer Olympics,0,0,2,2,Low Performance
+South Africa,1948 Summer Olympics,2,2,2,6,Low Performance
+Spain,1948 Summer Olympics,0,1,0,1,Low Performance
+Sri Lanka,1948 Summer Olympics,0,1,0,1,Low Performance
+Sweden,1948 Summer Olympics,17,11,18,46,Low Performance
+Switzerland,1948 Summer Olympics,5,12,6,23,Low Performance
+Türkiye,1948 Summer Olympics,6,4,2,12,Low Performance
+Trinidad and Tobago,1948 Summer Olympics,0,1,0,1,Low Performance
+United States,1948 Summer Olympics,38,27,19,84,High Performance
+Uruguay,1948 Summer Olympics,0,1,1,2,Low Performance
+Yugoslavia,1948 Summer Olympics,0,2,0,2,Low Performance
+Austria,1948 Winter Olympics,1,3,4,8,Low Performance
+Belgium,1948 Winter Olympics,1,1,0,2,Low Performance
+Canada,1948 Winter Olympics,2,0,1,3,Low Performance
+Czechoslovakia,1948 Winter Olympics,0,1,0,1,Low Performance
+Finland,1948 Winter Olympics,1,3,2,6,Low Performance
+France,1948 Winter Olympics,2,1,2,5,Low Performance
+Great Britain,1948 Winter Olympics,0,0,2,2,Low Performance
+Hungary,1948 Winter Olympics,0,1,0,1,Low Performance
+Italy,1948 Winter Olympics,1,0,0,1,Low Performance
+Norway,1948 Winter Olympics,4,3,3,10,Low Performance
+Sweden,1948 Winter Olympics,4,3,3,10,Low Performance
+Switzerland,1948 Winter Olympics,3,4,3,10,Low Performance
+United States,1948 Winter Olympics,3,4,2,9,Low Performance
+Argentina,1952 Summer Olympics,1,2,2,5,Low Performance
+Australia,1952 Summer Olympics,6,2,3,11,Low Performance
+Austria,1952 Summer Olympics,0,1,1,2,Low Performance
+Belgium,1952 Summer Olympics,2,2,0,4,Low Performance
+Brazil,1952 Summer Olympics,1,0,2,3,Low Performance
+Bulgaria,1952 Summer Olympics,0,0,1,1,Low Performance
+Canada,1952 Summer Olympics,1,2,0,3,Low Performance
+Chile,1952 Summer Olympics,0,2,0,2,Low Performance
+Czechoslovakia,1952 Summer Olympics,7,3,3,13,Low Performance
+Denmark,1952 Summer Olympics,2,1,3,6,Low Performance
+Egypt,1952 Summer Olympics,0,0,1,1,Low Performance
+Finland,1952 Summer Olympics,6,3,13,22,Low Performance
+France,1952 Summer Olympics,6,6,6,18,Low Performance
+Germany,1952 Summer Olympics,0,7,17,24,Low Performance
+Great Britain,1952 Summer Olympics,1,2,8,11,Low Performance
+Hungary,1952 Summer Olympics,16,10,16,42,Low Performance
+India,1952 Summer Olympics,1,0,1,2,Low Performance
+Ireland,1952 Summer Olympics,0,1,0,1,Low Performance
+Islamic Republic of Iran,1952 Summer Olympics,0,3,4,7,Low Performance
+Italy,1952 Summer Olympics,8,9,4,21,Low Performance
+Jamaica,1952 Summer Olympics,2,3,0,5,Low Performance
+Japan,1952 Summer Olympics,1,6,2,9,Low Performance
+Lebanon,1952 Summer Olympics,0,1,1,2,Low Performance
+Luxembourg,1952 Summer Olympics,1,0,0,1,Low Performance
+Mexico,1952 Summer Olympics,0,1,0,1,Low Performance
+Netherlands,1952 Summer Olympics,0,5,0,5,Low Performance
+New Zealand,1952 Summer Olympics,1,0,2,3,Low Performance
+Norway,1952 Summer Olympics,3,2,0,5,Low Performance
+Poland,1952 Summer Olympics,1,2,1,4,Low Performance
+Portugal,1952 Summer Olympics,0,0,1,1,Low Performance
+Republic of Korea,1952 Summer Olympics,0,0,2,2,Low Performance
+Romania,1952 Summer Olympics,1,1,2,4,Low Performance
+South Africa,1952 Summer Olympics,2,4,4,10,Low Performance
+Soviet Union,1952 Summer Olympics,22,30,19,71,High Performance
+Spain,1952 Summer Olympics,0,1,0,1,Low Performance
+Sweden,1952 Summer Olympics,12,13,10,35,Low Performance
+Switzerland,1952 Summer Olympics,2,6,6,14,Low Performance
+Türkiye,1952 Summer Olympics,2,0,1,3,Low Performance
+Trinidad and Tobago,1952 Summer Olympics,0,0,2,2,Low Performance
+United States,1952 Summer Olympics,40,19,17,76,High Performance
+Uruguay,1952 Summer Olympics,0,0,2,2,Low Performance
+Venezuela,1952 Summer Olympics,0,0,1,1,Low Performance
+Yugoslavia,1952 Summer Olympics,1,2,0,3,Low Performance
+Austria,1952 Winter Olympics,2,4,2,8,Low Performance
+Canada,1952 Winter Olympics,1,0,1,2,Low Performance
+Finland,1952 Winter Olympics,3,4,2,9,Low Performance
+France,1952 Winter Olympics,0,0,1,1,Low Performance
+Germany,1952 Winter Olympics,3,2,2,7,Low Performance
+Great Britain,1952 Winter Olympics,1,0,0,1,Low Performance
+Hungary,1952 Winter Olympics,0,0,1,1,Low Performance
+Italy,1952 Winter Olympics,1,0,1,2,Low Performance
+Netherlands,1952 Winter Olympics,0,3,0,3,Low Performance
+Norway,1952 Winter Olympics,7,3,6,16,Low Performance
+Sweden,1952 Winter Olympics,0,0,4,4,Low Performance
+Switzerland,1952 Winter Olympics,0,0,2,2,Low Performance
+United States,1952 Winter Olympics,4,6,1,11,Low Performance
+Canada,1956 Equestrian,0,0,1,1,Low Performance
+Denmark,1956 Equestrian,0,1,0,1,Low Performance
+Germany,1956 Equestrian,2,3,1,6,Low Performance
+Great Britain,1956 Equestrian,1,0,2,3,Low Performance
+Italy,1956 Equestrian,0,2,1,3,Low Performance
+Sweden,1956 Equestrian,3,0,0,3,Low Performance
+Switzerland,1956 Equestrian,0,0,1,1,Low Performance
+Argentina,1956 Summer Olympics,0,1,1,2,Low Performance
+Australia,1956 Summer Olympics,13,8,14,35,Low Performance
+Austria,1956 Summer Olympics,0,0,2,2,Low Performance
+Belgium,1956 Summer Olympics,0,2,0,2,Low Performance
+Brazil,1956 Summer Olympics,1,0,0,1,Low Performance
+Bulgaria,1956 Summer Olympics,1,3,1,5,Low Performance
+Canada,1956 Summer Olympics,2,1,2,5,Low Performance
+Chile,1956 Summer Olympics,0,2,2,4,Low Performance
+Czechoslovakia,1956 Summer Olympics,1,4,1,6,Low Performance
+Denmark,1956 Summer Olympics,1,1,1,3,Low Performance
+Finland,1956 Summer Olympics,3,1,11,15,Low Performance
+France,1956 Summer Olympics,4,4,6,14,Low Performance
+Germany,1956 Summer Olympics,4,10,6,20,Low Performance
+Great Britain,1956 Summer Olympics,5,7,9,21,Low Performance
+Greece,1956 Summer Olympics,0,0,1,1,Low Performance
+Hungary,1956 Summer Olympics,9,10,7,26,Low Performance
+Iceland,1956 Summer Olympics,0,1,0,1,Low Performance
+India,1956 Summer Olympics,1,0,0,1,Low Performance
+Ireland,1956 Summer Olympics,1,1,3,5,Low Performance
+Islamic Republic of Iran,1956 Summer Olympics,2,2,1,5,Low Performance
+Italy,1956 Summer Olympics,8,6,8,22,Low Performance
+Japan,1956 Summer Olympics,4,10,5,19,Low Performance
+Mexico,1956 Summer Olympics,1,0,1,2,Low Performance
+New Zealand,1956 Summer Olympics,2,0,0,2,Low Performance
+Norway,1956 Summer Olympics,1,0,2,3,Low Performance
+Pakistan,1956 Summer Olympics,0,1,0,1,Low Performance
+Poland,1956 Summer Olympics,1,4,4,9,Low Performance
+Republic of Korea,1956 Summer Olympics,0,1,1,2,Low Performance
+Romania,1956 Summer Olympics,5,3,5,13,Low Performance
+South Africa,1956 Summer Olympics,0,0,4,4,Low Performance
+Soviet Union,1956 Summer Olympics,37,29,32,98,High Performance
+Sweden,1956 Summer Olympics,5,5,6,16,Low Performance
+Türkiye,1956 Summer Olympics,3,2,2,7,Low Performance
+The Bahamas,1956 Summer Olympics,0,0,1,1,Low Performance
+United States,1956 Summer Olympics,32,25,17,74,High Performance
+Uruguay,1956 Summer Olympics,0,0,1,1,Low Performance
+Yugoslavia,1956 Summer Olympics,0,3,0,3,Low Performance
+Austria,1956 Winter Olympics,4,3,4,11,Low Performance
+Canada,1956 Winter Olympics,0,1,2,3,Low Performance
+Finland,1956 Winter Olympics,3,3,1,7,Low Performance
+Germany,1956 Winter Olympics,1,0,1,2,Low Performance
+Hungary,1956 Winter Olympics,0,0,1,1,Low Performance
+Italy,1956 Winter Olympics,1,2,0,3,Low Performance
+Japan,1956 Winter Olympics,0,1,0,1,Low Performance
+Norway,1956 Winter Olympics,2,1,1,4,Low Performance
+Poland,1956 Winter Olympics,0,0,1,1,Low Performance
+Soviet Union,1956 Winter Olympics,7,3,6,16,Low Performance
+Sweden,1956 Winter Olympics,2,4,4,10,Low Performance
+Switzerland,1956 Winter Olympics,3,2,1,6,Low Performance
+United States,1956 Winter Olympics,2,3,2,7,Low Performance
+Argentina,1960 Summer Olympics,0,1,1,2,Low Performance
+Australia,1960 Summer Olympics,8,8,6,22,Low Performance
+Austria,1960 Summer Olympics,1,1,0,2,Low Performance
+Belgium,1960 Summer Olympics,0,2,2,4,Low Performance
+Brazil,1960 Summer Olympics,0,0,2,2,Low Performance
+Bulgaria,1960 Summer Olympics,1,3,3,7,Low Performance
+Canada,1960 Summer Olympics,0,1,0,1,Low Performance
+Chinese Taipei,1960 Summer Olympics,0,1,0,1,Low Performance
+Czechoslovakia,1960 Summer Olympics,3,2,3,8,Low Performance
+Denmark,1960 Summer Olympics,2,3,1,6,Low Performance
+Ethiopia,1960 Summer Olympics,1,0,0,1,Low Performance
+Finland,1960 Summer Olympics,1,1,3,5,Low Performance
+France,1960 Summer Olympics,0,2,3,5,Low Performance
+Germany,1960 Summer Olympics,12,19,11,42,Low Performance
+Ghana,1960 Summer Olympics,0,1,0,1,Low Performance
+Great Britain,1960 Summer Olympics,2,6,12,20,Low Performance
+Greece,1960 Summer Olympics,1,0,0,1,Low Performance
+Hungary,1960 Summer Olympics,6,8,7,21,Low Performance
+India,1960 Summer Olympics,0,1,0,1,Low Performance
+Iraq,1960 Summer Olympics,0,0,1,1,Low Performance
+Islamic Republic of Iran,1960 Summer Olympics,0,1,3,4,Low Performance
+Italy,1960 Summer Olympics,13,10,13,36,Low Performance
+Japan,1960 Summer Olympics,4,7,7,18,Low Performance
+Mexico,1960 Summer Olympics,0,0,1,1,Low Performance
+Morocco,1960 Summer Olympics,0,1,0,1,Low Performance
+Netherlands,1960 Summer Olympics,0,1,2,3,Low Performance
+New Zealand,1960 Summer Olympics,2,0,1,3,Low Performance
+Norway,1960 Summer Olympics,1,0,0,1,Low Performance
+Pakistan,1960 Summer Olympics,1,0,1,2,Low Performance
+Poland,1960 Summer Olympics,4,6,11,21,Low Performance
+Portugal,1960 Summer Olympics,0,1,0,1,Low Performance
+Romania,1960 Summer Olympics,3,1,6,10,Low Performance
+Singapore,1960 Summer Olympics,0,1,0,1,Low Performance
+South Africa,1960 Summer Olympics,0,1,2,3,Low Performance
+Soviet Union,1960 Summer Olympics,43,29,31,103,High Performance
+Spain,1960 Summer Olympics,0,0,1,1,Low Performance
+Sweden,1960 Summer Olympics,1,2,3,6,Low Performance
+Switzerland,1960 Summer Olympics,0,3,3,6,Low Performance
+Türkiye,1960 Summer Olympics,7,2,0,9,Low Performance
+United Arab Republic,1960 Summer Olympics,0,1,1,2,Low Performance
+United States,1960 Summer Olympics,34,21,16,71,High Performance
+Venezuela,1960 Summer Olympics,0,0,1,1,Low Performance
+West Indies Federation,1960 Summer Olympics,0,0,2,2,Low Performance
+Yugoslavia,1960 Summer Olympics,1,1,0,2,Low Performance
+Austria,1960 Winter Olympics,1,2,3,6,Low Performance
+Canada,1960 Winter Olympics,2,1,1,4,Low Performance
+Czechoslovakia,1960 Winter Olympics,0,1,0,1,Low Performance
+Finland,1960 Winter Olympics,2,3,3,8,Low Performance
+France,1960 Winter Olympics,1,0,2,3,Low Performance
+Germany,1960 Winter Olympics,4,3,1,8,Low Performance
+Italy,1960 Winter Olympics,0,0,1,1,Low Performance
+Netherlands,1960 Winter Olympics,0,1,1,2,Low Performance
+Norway,1960 Winter Olympics,3,3,0,6,Low Performance
+Poland,1960 Winter Olympics,0,1,1,2,Low Performance
+Soviet Union,1960 Winter Olympics,7,5,9,21,Low Performance
+Sweden,1960 Winter Olympics,3,2,2,7,Low Performance
+Switzerland,1960 Winter Olympics,2,0,0,2,Low Performance
+United States,1960 Winter Olympics,3,4,3,10,Low Performance
+Argentina,1964 Summer Olympics,0,1,0,1,Low Performance
+Australia,1964 Summer Olympics,6,2,10,18,Low Performance
+Belgium,1964 Summer Olympics,2,0,1,3,Low Performance
+Brazil,1964 Summer Olympics,0,0,1,1,Low Performance
+Bulgaria,1964 Summer Olympics,3,5,2,10,Low Performance
+Canada,1964 Summer Olympics,1,2,1,4,Low Performance
+Cuba,1964 Summer Olympics,0,1,0,1,Low Performance
+Czechoslovakia,1964 Summer Olympics,5,6,3,14,Low Performance
+Denmark,1964 Summer Olympics,2,1,3,6,Low Performance
+Ethiopia,1964 Summer Olympics,1,0,0,1,Low Performance
+Finland,1964 Summer Olympics,3,0,2,5,Low Performance
+France,1964 Summer Olympics,1,8,6,15,Low Performance
+Germany,1964 Summer Olympics,10,22,18,50,Low Performance
+Ghana,1964 Summer Olympics,0,0,1,1,Low Performance
+Great Britain,1964 Summer Olympics,4,12,2,18,Low Performance
+Hungary,1964 Summer Olympics,10,7,5,22,Low Performance
+India,1964 Summer Olympics,1,0,0,1,Low Performance
+Ireland,1964 Summer Olympics,0,0,1,1,Low Performance
+Islamic Republic of Iran,1964 Summer Olympics,0,0,2,2,Low Performance
+Italy,1964 Summer Olympics,10,10,7,27,Low Performance
+Japan,1964 Summer Olympics,16,5,8,29,Low Performance
+Kenya,1964 Summer Olympics,0,0,1,1,Low Performance
+Mexico,1964 Summer Olympics,0,0,1,1,Low Performance
+Netherlands,1964 Summer Olympics,2,4,4,10,Low Performance
+New Zealand,1964 Summer Olympics,3,0,2,5,Low Performance
+Nigeria,1964 Summer Olympics,0,0,1,1,Low Performance
+Pakistan,1964 Summer Olympics,0,1,0,1,Low Performance
+Philippines,1964 Summer Olympics,0,1,0,1,Low Performance
+Poland,1964 Summer Olympics,7,6,10,23,Low Performance
+Republic of Korea,1964 Summer Olympics,0,2,1,3,Low Performance
+Romania,1964 Summer Olympics,2,4,6,12,Low Performance
+Soviet Union,1964 Summer Olympics,30,31,35,96,High Performance
+Sweden,1964 Summer Olympics,2,2,4,8,Low Performance
+Switzerland,1964 Summer Olympics,1,2,1,4,Low Performance
+Türkiye,1964 Summer Olympics,2,3,1,6,Low Performance
+The Bahamas,1964 Summer Olympics,1,0,0,1,Low Performance
+Trinidad and Tobago,1964 Summer Olympics,0,1,2,3,Low Performance
+Tunisia,1964 Summer Olympics,0,1,1,2,Low Performance
+United States,1964 Summer Olympics,36,26,28,90,High Performance
+Uruguay,1964 Summer Olympics,0,0,1,1,Low Performance
+Yugoslavia,1964 Summer Olympics,2,1,2,5,Low Performance
+Austria,1964 Winter Olympics,4,5,3,12,Low Performance
+Canada,1964 Winter Olympics,1,1,1,3,Low Performance
+Czechoslovakia,1964 Winter Olympics,0,0,1,1,Low Performance
+Democratic People's Republic of Korea,1964 Winter Olympics,0,1,0,1,Low Performance
+Finland,1964 Winter Olympics,3,4,3,10,Low Performance
+France,1964 Winter Olympics,3,4,0,7,Low Performance
+Germany,1964 Winter Olympics,3,3,3,9,Low Performance
+Great Britain,1964 Winter Olympics,1,0,0,1,Low Performance
+Italy,1964 Winter Olympics,0,1,3,4,Low Performance
+Netherlands,1964 Winter Olympics,1,1,0,2,Low Performance
+Norway,1964 Winter Olympics,3,6,6,15,Low Performance
+Soviet Union,1964 Winter Olympics,11,8,6,25,Low Performance
+Sweden,1964 Winter Olympics,3,3,1,7,Low Performance
+United States,1964 Winter Olympics,1,2,4,7,Low Performance
+Argentina,1968 Summer Olympics,0,0,2,2,Low Performance
+Australia,1968 Summer Olympics,5,7,5,17,Low Performance
+Austria,1968 Summer Olympics,0,2,2,4,Low Performance
+Belgium,1968 Summer Olympics,0,1,1,2,Low Performance
+Brazil,1968 Summer Olympics,0,1,2,3,Low Performance
+Bulgaria,1968 Summer Olympics,2,4,3,9,Low Performance
+Cameroon,1968 Summer Olympics,0,1,0,1,Low Performance
+Canada,1968 Summer Olympics,1,3,1,5,Low Performance
+Chinese Taipei,1968 Summer Olympics,0,0,1,1,Low Performance
+Cuba,1968 Summer Olympics,0,4,0,4,Low Performance
+Czechoslovakia,1968 Summer Olympics,7,2,4,13,Low Performance
+Denmark,1968 Summer Olympics,1,4,3,8,Low Performance
+East Germany,1968 Summer Olympics,9,9,7,25,Low Performance
+Ethiopia,1968 Summer Olympics,1,1,0,2,Low Performance
+Finland,1968 Summer Olympics,1,2,1,4,Low Performance
+France,1968 Summer Olympics,7,3,5,15,Low Performance
+Great Britain,1968 Summer Olympics,5,5,3,13,Low Performance
+Greece,1968 Summer Olympics,0,0,1,1,Low Performance
+Hungary,1968 Summer Olympics,10,10,12,32,Low Performance
+India,1968 Summer Olympics,0,0,1,1,Low Performance
+Islamic Republic of Iran,1968 Summer Olympics,2,1,2,5,Low Performance
+Italy,1968 Summer Olympics,3,4,9,16,Low Performance
+Jamaica,1968 Summer Olympics,0,1,0,1,Low Performance
+Japan,1968 Summer Olympics,11,7,7,25,Low Performance
+Kenya,1968 Summer Olympics,3,4,2,9,Low Performance
+Mexico,1968 Summer Olympics,3,3,3,9,Low Performance
+Mongolia,1968 Summer Olympics,0,1,3,4,Low Performance
+Netherlands,1968 Summer Olympics,3,3,1,7,Low Performance
+New Zealand,1968 Summer Olympics,1,0,2,3,Low Performance
+Norway,1968 Summer Olympics,1,1,0,2,Low Performance
+Pakistan,1968 Summer Olympics,1,0,0,1,Low Performance
+Poland,1968 Summer Olympics,5,2,11,18,Low Performance
+Republic of Korea,1968 Summer Olympics,0,1,1,2,Low Performance
+Romania,1968 Summer Olympics,4,6,5,15,Low Performance
+Soviet Union,1968 Summer Olympics,29,32,30,91,High Performance
+Sweden,1968 Summer Olympics,2,1,1,4,Low Performance
+Switzerland,1968 Summer Olympics,0,1,4,5,Low Performance
+Türkiye,1968 Summer Olympics,2,0,0,2,Low Performance
+Tunisia,1968 Summer Olympics,1,0,1,2,Low Performance
+Uganda,1968 Summer Olympics,0,1,1,2,Low Performance
+United States,1968 Summer Olympics,45,28,34,107,High Performance
+Venezuela,1968 Summer Olympics,1,0,0,1,Low Performance
+West Germany,1968 Summer Olympics,5,11,10,26,Low Performance
+Yugoslavia,1968 Summer Olympics,3,3,2,8,Low Performance
+Austria,1968 Winter Olympics,3,4,4,11,Low Performance
+Canada,1968 Winter Olympics,1,1,1,3,Low Performance
+Czechoslovakia,1968 Winter Olympics,1,2,1,4,Low Performance
+East Germany,1968 Winter Olympics,1,2,2,5,Low Performance
+Finland,1968 Winter Olympics,1,2,2,5,Low Performance
+France,1968 Winter Olympics,4,3,2,9,Low Performance
+Italy,1968 Winter Olympics,4,0,0,4,Low Performance
+Netherlands,1968 Winter Olympics,3,3,3,9,Low Performance
+Norway,1968 Winter Olympics,6,6,2,14,Low Performance
+Romania,1968 Winter Olympics,0,0,1,1,Low Performance
+Soviet Union,1968 Winter Olympics,5,5,3,13,Low Performance
+Sweden,1968 Winter Olympics,3,2,3,8,Low Performance
+Switzerland,1968 Winter Olympics,0,2,4,6,Low Performance
+United States,1968 Winter Olympics,1,5,1,7,Low Performance
+West Germany,1968 Winter Olympics,2,2,3,7,Low Performance
+Argentina,1972 Summer Olympics,0,1,0,1,Low Performance
+Australia,1972 Summer Olympics,8,7,2,17,Low Performance
+Austria,1972 Summer Olympics,0,1,2,3,Low Performance
+Belgium,1972 Summer Olympics,0,2,0,2,Low Performance
+Brazil,1972 Summer Olympics,0,0,2,2,Low Performance
+Bulgaria,1972 Summer Olympics,6,10,5,21,Low Performance
+Canada,1972 Summer Olympics,0,2,3,5,Low Performance
+Colombia,1972 Summer Olympics,0,1,2,3,Low Performance
+Cuba,1972 Summer Olympics,3,1,4,8,Low Performance
+Czechoslovakia,1972 Summer Olympics,2,4,2,8,Low Performance
+Democratic People's Republic of Korea,1972 Summer Olympics,1,1,3,5,Low Performance
+Denmark,1972 Summer Olympics,1,0,0,1,Low Performance
+East Germany,1972 Summer Olympics,20,23,23,66,High Performance
+Ethiopia,1972 Summer Olympics,0,0,2,2,Low Performance
+Finland,1972 Summer Olympics,3,1,4,8,Low Performance
+France,1972 Summer Olympics,2,4,7,13,Low Performance
+Ghana,1972 Summer Olympics,0,0,1,1,Low Performance
+Great Britain,1972 Summer Olympics,4,5,9,18,Low Performance
+Greece,1972 Summer Olympics,0,2,0,2,Low Performance
+Hungary,1972 Summer Olympics,6,13,16,35,Low Performance
+India,1972 Summer Olympics,0,0,1,1,Low Performance
+Islamic Republic of Iran,1972 Summer Olympics,0,2,1,3,Low Performance
+Italy,1972 Summer Olympics,5,3,10,18,Low Performance
+Jamaica,1972 Summer Olympics,0,0,1,1,Low Performance
+Japan,1972 Summer Olympics,13,8,8,29,Low Performance
+Kenya,1972 Summer Olympics,2,3,4,9,Low Performance
+Lebanon,1972 Summer Olympics,0,1,0,1,Low Performance
+Mexico,1972 Summer Olympics,0,1,0,1,Low Performance
+Mongolia,1972 Summer Olympics,0,1,0,1,Low Performance
+Netherlands,1972 Summer Olympics,3,1,1,5,Low Performance
+New Zealand,1972 Summer Olympics,1,1,1,3,Low Performance
+Niger,1972 Summer Olympics,0,0,1,1,Low Performance
+Nigeria,1972 Summer Olympics,0,0,1,1,Low Performance
+Norway,1972 Summer Olympics,2,1,1,4,Low Performance
+Pakistan,1972 Summer Olympics,0,1,0,1,Low Performance
+Poland,1972 Summer Olympics,7,5,9,21,Low Performance
+Republic of Korea,1972 Summer Olympics,0,1,0,1,Low Performance
+Romania,1972 Summer Olympics,3,6,7,16,Low Performance
+Soviet Union,1972 Summer Olympics,50,27,22,99,High Performance
+Spain,1972 Summer Olympics,0,0,1,1,Low Performance
+Sweden,1972 Summer Olympics,4,6,6,16,Low Performance
+Switzerland,1972 Summer Olympics,0,3,0,3,Low Performance
+Türkiye,1972 Summer Olympics,0,1,0,1,Low Performance
+Tunisia,1972 Summer Olympics,0,1,0,1,Low Performance
+Uganda,1972 Summer Olympics,1,1,0,2,Low Performance
+United States,1972 Summer Olympics,33,31,30,94,High Performance
+West Germany,1972 Summer Olympics,13,11,16,40,Low Performance
+Yugoslavia,1972 Summer Olympics,2,1,2,5,Low Performance
+Austria,1972 Winter Olympics,1,2,2,5,Low Performance
+Canada,1972 Winter Olympics,0,1,0,1,Low Performance
+Czechoslovakia,1972 Winter Olympics,1,0,2,3,Low Performance
+East Germany,1972 Winter Olympics,4,3,7,14,Low Performance
+Finland,1972 Winter Olympics,0,4,1,5,Low Performance
+France,1972 Winter Olympics,0,1,2,3,Low Performance
+Italy,1972 Winter Olympics,2,2,1,5,Low Performance
+Japan,1972 Winter Olympics,1,1,1,3,Low Performance
+Netherlands,1972 Winter Olympics,4,3,2,9,Low Performance
+Norway,1972 Winter Olympics,2,5,5,12,Low Performance
+Poland,1972 Winter Olympics,1,0,0,1,Low Performance
+Soviet Union,1972 Winter Olympics,8,5,3,16,Low Performance
+Spain,1972 Winter Olympics,1,0,0,1,Low Performance
+Sweden,1972 Winter Olympics,1,1,2,4,Low Performance
+Switzerland,1972 Winter Olympics,4,3,3,10,Low Performance
+United States,1972 Winter Olympics,3,2,3,8,Low Performance
+West Germany,1972 Winter Olympics,3,1,1,5,Low Performance
+Australia,1976 Summer Olympics,0,1,4,5,Low Performance
+Austria,1976 Summer Olympics,0,0,1,1,Low Performance
+Belgium,1976 Summer Olympics,0,3,3,6,Low Performance
+Bermuda,1976 Summer Olympics,0,0,1,1,Low Performance
+Brazil,1976 Summer Olympics,0,0,2,2,Low Performance
+Bulgaria,1976 Summer Olympics,6,9,7,22,Low Performance
+Canada,1976 Summer Olympics,0,5,6,11,Low Performance
+Cuba,1976 Summer Olympics,6,4,3,13,Low Performance
+Czechoslovakia,1976 Summer Olympics,2,2,4,8,Low Performance
+Democratic People's Republic of Korea,1976 Summer Olympics,1,1,0,2,Low Performance
+Denmark,1976 Summer Olympics,1,0,2,3,Low Performance
+East Germany,1976 Summer Olympics,40,25,25,90,High Performance
+Finland,1976 Summer Olympics,4,2,0,6,Low Performance
+France,1976 Summer Olympics,2,3,4,9,Low Performance
+Great Britain,1976 Summer Olympics,3,5,5,13,Low Performance
+Hungary,1976 Summer Olympics,4,5,13,22,Low Performance
+Islamic Republic of Iran,1976 Summer Olympics,0,1,1,2,Low Performance
+Italy,1976 Summer Olympics,2,7,4,13,Low Performance
+Jamaica,1976 Summer Olympics,1,1,0,2,Low Performance
+Japan,1976 Summer Olympics,9,6,10,25,Low Performance
+Mexico,1976 Summer Olympics,1,0,1,2,Low Performance
+Mongolia,1976 Summer Olympics,0,1,0,1,Low Performance
+Netherlands,1976 Summer Olympics,0,2,3,5,Low Performance
+New Zealand,1976 Summer Olympics,2,1,1,4,Low Performance
+Norway,1976 Summer Olympics,1,1,0,2,Low Performance
+Pakistan,1976 Summer Olympics,0,0,1,1,Low Performance
+Poland,1976 Summer Olympics,7,6,13,26,Low Performance
+Portugal,1976 Summer Olympics,0,2,0,2,Low Performance
+Puerto Rico,1976 Summer Olympics,0,0,1,1,Low Performance
+Republic of Korea,1976 Summer Olympics,1,1,4,6,Low Performance
+Romania,1976 Summer Olympics,4,9,14,27,Low Performance
+Soviet Union,1976 Summer Olympics,49,41,35,125,High Performance
+Spain,1976 Summer Olympics,0,2,0,2,Low Performance
+Sweden,1976 Summer Olympics,4,1,0,5,Low Performance
+Switzerland,1976 Summer Olympics,1,1,2,4,Low Performance
+Thailand,1976 Summer Olympics,0,0,1,1,Low Performance
+Trinidad and Tobago,1976 Summer Olympics,1,0,0,1,Low Performance
+United States,1976 Summer Olympics,34,35,25,94,High Performance
+Venezuela,1976 Summer Olympics,0,1,0,1,Low Performance
+West Germany,1976 Summer Olympics,10,12,17,39,Low Performance
+Yugoslavia,1976 Summer Olympics,2,3,3,8,Low Performance
+Austria,1976 Winter Olympics,2,2,2,6,Low Performance
+Canada,1976 Winter Olympics,1,1,1,3,Low Performance
+Czechoslovakia,1976 Winter Olympics,0,1,0,1,Low Performance
+East Germany,1976 Winter Olympics,7,5,7,19,Low Performance
+Finland,1976 Winter Olympics,2,4,1,7,Low Performance
+France,1976 Winter Olympics,0,0,1,1,Low Performance
+Great Britain,1976 Winter Olympics,1,0,0,1,Low Performance
+Italy,1976 Winter Olympics,1,2,1,4,Low Performance
+Liechtenstein,1976 Winter Olympics,0,0,2,2,Low Performance
+Netherlands,1976 Winter Olympics,1,2,3,6,Low Performance
+Norway,1976 Winter Olympics,3,3,1,7,Low Performance
+Soviet Union,1976 Winter Olympics,13,6,8,27,Low Performance
+Sweden,1976 Winter Olympics,0,0,2,2,Low Performance
+Switzerland,1976 Winter Olympics,1,3,1,5,Low Performance
+United States,1976 Winter Olympics,3,3,4,10,Low Performance
+West Germany,1976 Winter Olympics,2,5,3,10,Low Performance
+Australia,1980 Summer Olympics,2,2,5,9,Low Performance
+Austria,1980 Summer Olympics,1,2,1,4,Low Performance
+Belgium,1980 Summer Olympics,1,0,0,1,Low Performance
+Brazil,1980 Summer Olympics,2,0,2,4,Low Performance
+Bulgaria,1980 Summer Olympics,8,16,17,41,Low Performance
+Cuba,1980 Summer Olympics,8,7,5,20,Low Performance
+Czechoslovakia,1980 Summer Olympics,2,3,9,14,Low Performance
+Democratic People's Republic of Korea,1980 Summer Olympics,0,3,2,5,Low Performance
+Denmark,1980 Summer Olympics,2,1,2,5,Low Performance
+East Germany,1980 Summer Olympics,47,37,42,126,High Performance
+Ethiopia,1980 Summer Olympics,2,0,2,4,Low Performance
+Finland,1980 Summer Olympics,3,1,4,8,Low Performance
+France,1980 Summer Olympics,6,5,3,14,Low Performance
+Great Britain,1980 Summer Olympics,5,7,9,21,Low Performance
+Greece,1980 Summer Olympics,1,0,2,3,Low Performance
+Guyana,1980 Summer Olympics,0,0,1,1,Low Performance
+Hungary,1980 Summer Olympics,7,10,15,32,Low Performance
+India,1980 Summer Olympics,1,0,0,1,Low Performance
+Ireland,1980 Summer Olympics,0,1,1,2,Low Performance
+Italy,1980 Summer Olympics,8,3,4,15,Low Performance
+Jamaica,1980 Summer Olympics,0,0,3,3,Low Performance
+Lebanon,1980 Summer Olympics,0,0,1,1,Low Performance
+Mexico,1980 Summer Olympics,0,1,3,4,Low Performance
+Mongolia,1980 Summer Olympics,0,2,2,4,Low Performance
+Netherlands,1980 Summer Olympics,0,1,2,3,Low Performance
+Poland,1980 Summer Olympics,3,14,15,32,Low Performance
+Romania,1980 Summer Olympics,6,6,13,25,Low Performance
+Soviet Union,1980 Summer Olympics,80,69,46,195,High Performance
+Spain,1980 Summer Olympics,1,3,2,6,Low Performance
+Sweden,1980 Summer Olympics,3,3,6,12,Low Performance
+Switzerland,1980 Summer Olympics,2,0,0,2,Low Performance
+Uganda,1980 Summer Olympics,0,1,0,1,Low Performance
+United Republic of Tanzania,1980 Summer Olympics,0,2,0,2,Low Performance
+Venezuela,1980 Summer Olympics,0,1,0,1,Low Performance
+Yugoslavia,1980 Summer Olympics,2,3,4,9,Low Performance
+Zimbabwe,1980 Summer Olympics,1,0,0,1,Low Performance
+Austria,1980 Winter Olympics,3,2,2,7,Low Performance
+Bulgaria,1980 Winter Olympics,0,0,1,1,Low Performance
+Canada,1980 Winter Olympics,0,1,1,2,Low Performance
+Czechoslovakia,1980 Winter Olympics,0,0,1,1,Low Performance
+East Germany,1980 Winter Olympics,9,7,7,23,Low Performance
+Finland,1980 Winter Olympics,1,5,3,9,Low Performance
+France,1980 Winter Olympics,0,0,1,1,Low Performance
+Great Britain,1980 Winter Olympics,1,0,0,1,Low Performance
+Hungary,1980 Winter Olympics,0,1,0,1,Low Performance
+Italy,1980 Winter Olympics,0,2,0,2,Low Performance
+Japan,1980 Winter Olympics,0,1,0,1,Low Performance
+Liechtenstein,1980 Winter Olympics,2,2,0,4,Low Performance
+Netherlands,1980 Winter Olympics,1,2,1,4,Low Performance
+Norway,1980 Winter Olympics,1,3,6,10,Low Performance
+Soviet Union,1980 Winter Olympics,10,6,6,22,Low Performance
+Sweden,1980 Winter Olympics,3,0,1,4,Low Performance
+Switzerland,1980 Winter Olympics,1,1,3,5,Low Performance
+United States,1980 Winter Olympics,6,4,2,12,Low Performance
+West Germany,1980 Winter Olympics,0,2,3,5,Low Performance
+Algeria,1984 Summer Olympics,0,0,2,2,Low Performance
+Australia,1984 Summer Olympics,4,8,12,24,Low Performance
+Austria,1984 Summer Olympics,1,1,1,3,Low Performance
+Belgium,1984 Summer Olympics,1,1,2,4,Low Performance
+Brazil,1984 Summer Olympics,1,5,2,8,Low Performance
+Côte d'Ivoire,1984 Summer Olympics,0,1,0,1,Low Performance
+Cameroon,1984 Summer Olympics,0,0,1,1,Low Performance
+Canada,1984 Summer Olympics,10,18,16,44,Low Performance
+Chinese Taipei,1984 Summer Olympics,0,0,1,1,Low Performance
+Colombia,1984 Summer Olympics,0,1,0,1,Low Performance
+Denmark,1984 Summer Olympics,0,3,3,6,Low Performance
+Dominican Republic,1984 Summer Olympics,0,0,1,1,Low Performance
+Egypt,1984 Summer Olympics,0,1,0,1,Low Performance
+Finland,1984 Summer Olympics,4,2,6,12,Low Performance
+France,1984 Summer Olympics,5,7,16,28,Low Performance
+Great Britain,1984 Summer Olympics,5,11,21,37,Low Performance
+Greece,1984 Summer Olympics,0,1,1,2,Low Performance
+Iceland,1984 Summer Olympics,0,0,1,1,Low Performance
+Ireland,1984 Summer Olympics,0,1,0,1,Low Performance
+Italy,1984 Summer Olympics,14,6,12,32,Low Performance
+Jamaica,1984 Summer Olympics,0,1,2,3,Low Performance
+Japan,1984 Summer Olympics,10,8,14,32,Low Performance
+Kenya,1984 Summer Olympics,1,0,2,3,Low Performance
+Mexico,1984 Summer Olympics,2,3,1,6,Low Performance
+Morocco,1984 Summer Olympics,2,0,0,2,Low Performance
+Netherlands,1984 Summer Olympics,5,2,6,13,Low Performance
+New Zealand,1984 Summer Olympics,8,1,2,11,Low Performance
+Nigeria,1984 Summer Olympics,0,1,1,2,Low Performance
+Norway,1984 Summer Olympics,0,1,2,3,Low Performance
+Pakistan,1984 Summer Olympics,1,0,0,1,Low Performance
+People's Republic of China,1984 Summer Olympics,15,8,9,32,Low Performance
+Peru,1984 Summer Olympics,0,1,0,1,Low Performance
+Portugal,1984 Summer Olympics,1,0,2,3,Low Performance
+Puerto Rico,1984 Summer Olympics,0,1,1,2,Low Performance
+Republic of Korea,1984 Summer Olympics,6,6,7,19,Low Performance
+Romania,1984 Summer Olympics,20,16,17,53,High Performance
+Spain,1984 Summer Olympics,1,2,2,5,Low Performance
+Sweden,1984 Summer Olympics,2,11,6,19,Low Performance
+Switzerland,1984 Summer Olympics,0,4,4,8,Low Performance
+Syrian Arab Republic,1984 Summer Olympics,0,1,0,1,Low Performance
+Türkiye,1984 Summer Olympics,0,0,3,3,Low Performance
+Thailand,1984 Summer Olympics,0,1,0,1,Low Performance
+United States,1984 Summer Olympics,83,61,30,174,High Performance
+Venezuela,1984 Summer Olympics,0,0,3,3,Low Performance
+West Germany,1984 Summer Olympics,17,19,23,59,High Performance
+Yugoslavia,1984 Summer Olympics,7,4,7,18,Low Performance
+Zambia,1984 Summer Olympics,0,0,1,1,Low Performance
+Austria,1984 Winter Olympics,0,0,1,1,Low Performance
+Canada,1984 Winter Olympics,2,1,1,4,Low Performance
+Czechoslovakia,1984 Winter Olympics,0,2,4,6,Low Performance
+East Germany,1984 Winter Olympics,9,9,6,24,Low Performance
+Finland,1984 Winter Olympics,4,3,6,13,Low Performance
+France,1984 Winter Olympics,0,1,2,3,Low Performance
+Great Britain,1984 Winter Olympics,1,0,0,1,Low Performance
+Italy,1984 Winter Olympics,2,0,0,2,Low Performance
+Japan,1984 Winter Olympics,0,1,0,1,Low Performance
+Liechtenstein,1984 Winter Olympics,0,0,2,2,Low Performance
+Norway,1984 Winter Olympics,3,2,4,9,Low Performance
+Soviet Union,1984 Winter Olympics,6,10,9,25,Low Performance
+Sweden,1984 Winter Olympics,4,2,2,8,Low Performance
+Switzerland,1984 Winter Olympics,2,2,1,5,Low Performance
+United States,1984 Winter Olympics,4,4,0,8,Low Performance
+West Germany,1984 Winter Olympics,2,1,1,4,Low Performance
+Yugoslavia,1984 Winter Olympics,0,1,0,1,Low Performance
+Argentina,1988 Summer Olympics,0,1,1,2,Low Performance
+Australia,1988 Summer Olympics,3,6,5,14,Low Performance
+Austria,1988 Summer Olympics,1,0,0,1,Low Performance
+Belgium,1988 Summer Olympics,0,0,2,2,Low Performance
+Brazil,1988 Summer Olympics,1,2,3,6,Low Performance
+Bulgaria,1988 Summer Olympics,10,12,13,35,Low Performance
+Canada,1988 Summer Olympics,3,2,5,10,Low Performance
+Chile,1988 Summer Olympics,0,1,0,1,Low Performance
+Colombia,1988 Summer Olympics,0,0,1,1,Low Performance
+Costa Rica,1988 Summer Olympics,0,1,0,1,Low Performance
+Czechoslovakia,1988 Summer Olympics,3,3,2,8,Low Performance
+Denmark,1988 Summer Olympics,2,1,1,4,Low Performance
+Djibouti,1988 Summer Olympics,0,0,1,1,Low Performance
+East Germany,1988 Summer Olympics,37,35,30,102,High Performance
+Finland,1988 Summer Olympics,1,1,2,4,Low Performance
+France,1988 Summer Olympics,6,4,6,16,Low Performance
+Great Britain,1988 Summer Olympics,5,10,9,24,Low Performance
+Greece,1988 Summer Olympics,0,0,1,1,Low Performance
+Hungary,1988 Summer Olympics,11,6,6,23,Low Performance
+Indonesia,1988 Summer Olympics,0,1,0,1,Low Performance
+Islamic Republic of Iran,1988 Summer Olympics,0,1,0,1,Low Performance
+Italy,1988 Summer Olympics,6,4,4,14,Low Performance
+Jamaica,1988 Summer Olympics,0,2,0,2,Low Performance
+Japan,1988 Summer Olympics,4,3,7,14,Low Performance
+Kenya,1988 Summer Olympics,5,2,2,9,Low Performance
+Mexico,1988 Summer Olympics,0,0,2,2,Low Performance
+Mongolia,1988 Summer Olympics,0,0,1,1,Low Performance
+Morocco,1988 Summer Olympics,1,0,2,3,Low Performance
+Netherlands,1988 Summer Olympics,2,2,5,9,Low Performance
+Netherlands Antilles,1988 Summer Olympics,0,1,0,1,Low Performance
+New Zealand,1988 Summer Olympics,3,2,8,13,Low Performance
+Norway,1988 Summer Olympics,2,3,0,5,Low Performance
+Pakistan,1988 Summer Olympics,0,0,1,1,Low Performance
+People's Republic of China,1988 Summer Olympics,5,11,12,28,Low Performance
+Peru,1988 Summer Olympics,0,1,0,1,Low Performance
+Philippines,1988 Summer Olympics,0,0,1,1,Low Performance
+Poland,1988 Summer Olympics,2,5,9,16,Low Performance
+Portugal,1988 Summer Olympics,1,0,0,1,Low Performance
+Republic of Korea,1988 Summer Olympics,12,10,11,33,Low Performance
+Romania,1988 Summer Olympics,7,11,6,24,Low Performance
+Senegal,1988 Summer Olympics,0,1,0,1,Low Performance
+Soviet Union,1988 Summer Olympics,55,31,46,132,High Performance
+Spain,1988 Summer Olympics,1,1,2,4,Low Performance
+Suriname,1988 Summer Olympics,1,0,0,1,Low Performance
+Sweden,1988 Summer Olympics,0,4,7,11,Low Performance
+Switzerland,1988 Summer Olympics,0,2,2,4,Low Performance
+Türkiye,1988 Summer Olympics,1,1,0,2,Low Performance
+Thailand,1988 Summer Olympics,0,0,1,1,Low Performance
+United States,1988 Summer Olympics,36,31,27,94,High Performance
+United States Virgin Islands,1988 Summer Olympics,0,1,0,1,Low Performance
+West Germany,1988 Summer Olympics,11,14,15,40,Low Performance
+Yugoslavia,1988 Summer Olympics,3,4,5,12,Low Performance
+Austria,1988 Winter Olympics,3,5,2,10,Low Performance
+Canada,1988 Winter Olympics,0,2,3,5,Low Performance
+Czechoslovakia,1988 Winter Olympics,0,1,2,3,Low Performance
+East Germany,1988 Winter Olympics,9,10,6,25,Low Performance
+Finland,1988 Winter Olympics,4,1,2,7,Low Performance
+France,1988 Winter Olympics,1,0,1,2,Low Performance
+Italy,1988 Winter Olympics,2,1,2,5,Low Performance
+Japan,1988 Winter Olympics,0,0,1,1,Low Performance
+Liechtenstein,1988 Winter Olympics,0,0,1,1,Low Performance
+Netherlands,1988 Winter Olympics,3,2,2,7,Low Performance
+Norway,1988 Winter Olympics,0,3,2,5,Low Performance
+Soviet Union,1988 Winter Olympics,11,9,9,29,Low Performance
+Sweden,1988 Winter Olympics,4,0,2,6,Low Performance
+Switzerland,1988 Winter Olympics,5,5,5,15,Low Performance
+United States,1988 Winter Olympics,2,1,3,6,Low Performance
+West Germany,1988 Winter Olympics,2,4,2,8,Low Performance
+Yugoslavia,1988 Winter Olympics,0,2,1,3,Low Performance
+Algeria,1992 Summer Olympics,1,0,1,2,Low Performance
+Argentina,1992 Summer Olympics,0,0,1,1,Low Performance
+Australia,1992 Summer Olympics,7,9,11,27,Low Performance
+Austria,1992 Summer Olympics,0,2,0,2,Low Performance
+Belgium,1992 Summer Olympics,0,1,2,3,Low Performance
+Brazil,1992 Summer Olympics,2,1,0,3,Low Performance
+Bulgaria,1992 Summer Olympics,3,7,6,16,Low Performance
+Canada,1992 Summer Olympics,7,4,7,18,Low Performance
+Chinese Taipei,1992 Summer Olympics,0,1,0,1,Low Performance
+Colombia,1992 Summer Olympics,0,0,1,1,Low Performance
+Croatia,1992 Summer Olympics,0,1,2,3,Low Performance
+Cuba,1992 Summer Olympics,14,6,11,31,Low Performance
+Czechoslovakia,1992 Summer Olympics,4,2,1,7,Low Performance
+Democratic People's Republic of Korea,1992 Summer Olympics,4,0,5,9,Low Performance
+Denmark,1992 Summer Olympics,1,1,4,6,Low Performance
+Estonia,1992 Summer Olympics,1,0,1,2,Low Performance
+Ethiopia,1992 Summer Olympics,1,0,2,3,Low Performance
+Finland,1992 Summer Olympics,1,2,2,5,Low Performance
+France,1992 Summer Olympics,8,5,16,29,Low Performance
+Germany,1992 Summer Olympics,33,21,28,82,High Performance
+Ghana,1992 Summer Olympics,0,0,1,1,Low Performance
+Great Britain,1992 Summer Olympics,5,3,12,20,Low Performance
+Greece,1992 Summer Olympics,2,0,0,2,Low Performance
+Hungary,1992 Summer Olympics,11,12,7,30,Low Performance
+Independent Olympic Athletes,1992 Summer Olympics,0,1,2,3,Low Performance
+Indonesia,1992 Summer Olympics,2,2,1,5,Low Performance
+Ireland,1992 Summer Olympics,1,1,0,2,Low Performance
+Islamic Republic of Iran,1992 Summer Olympics,0,1,2,3,Low Performance
+Israel,1992 Summer Olympics,0,1,1,2,Low Performance
+Italy,1992 Summer Olympics,6,5,8,19,Low Performance
+Jamaica,1992 Summer Olympics,0,3,1,4,Low Performance
+Japan,1992 Summer Olympics,3,8,11,22,Low Performance
+Kenya,1992 Summer Olympics,2,4,2,8,Low Performance
+Latvia,1992 Summer Olympics,0,2,1,3,Low Performance
+Lithuania,1992 Summer Olympics,1,0,1,2,Low Performance
+Malaysia,1992 Summer Olympics,0,0,1,1,Low Performance
+Mexico,1992 Summer Olympics,0,1,0,1,Low Performance
+Mongolia,1992 Summer Olympics,0,0,2,2,Low Performance
+Morocco,1992 Summer Olympics,1,1,1,3,Low Performance
+Namibia,1992 Summer Olympics,0,2,0,2,Low Performance
+Netherlands,1992 Summer Olympics,2,6,7,15,Low Performance
+New Zealand,1992 Summer Olympics,1,4,5,10,Low Performance
+Nigeria,1992 Summer Olympics,0,3,1,4,Low Performance
+Norway,1992 Summer Olympics,2,4,1,7,Low Performance
+Pakistan,1992 Summer Olympics,0,0,1,1,Low Performance
+People's Republic of China,1992 Summer Olympics,16,22,16,54,High Performance
+Peru,1992 Summer Olympics,0,1,0,1,Low Performance
+Philippines,1992 Summer Olympics,0,0,1,1,Low Performance
+Poland,1992 Summer Olympics,3,6,10,19,Low Performance
+Puerto Rico,1992 Summer Olympics,0,0,1,1,Low Performance
+Qatar,1992 Summer Olympics,0,0,1,1,Low Performance
+Republic of Korea,1992 Summer Olympics,12,5,12,29,Low Performance
+Romania,1992 Summer Olympics,4,6,8,18,Low Performance
+Slovenia,1992 Summer Olympics,0,0,2,2,Low Performance
+South Africa,1992 Summer Olympics,0,2,0,2,Low Performance
+Spain,1992 Summer Olympics,13,7,2,22,Low Performance
+Suriname,1992 Summer Olympics,0,0,1,1,Low Performance
+Sweden,1992 Summer Olympics,1,7,4,12,Low Performance
+Switzerland,1992 Summer Olympics,1,0,0,1,Low Performance
+Türkiye,1992 Summer Olympics,2,2,2,6,Low Performance
+Thailand,1992 Summer Olympics,0,0,1,1,Low Performance
+The Bahamas,1992 Summer Olympics,0,0,1,1,Low Performance
+Unified Team,1992 Summer Olympics,45,38,29,112,High Performance
+United States,1992 Summer Olympics,37,34,37,108,High Performance
+Austria,1992 Winter Olympics,6,7,8,21,Low Performance
+Canada,1992 Winter Olympics,2,3,2,7,Low Performance
+Czechoslovakia,1992 Winter Olympics,0,0,3,3,Low Performance
+Democratic People's Republic of Korea,1992 Winter Olympics,0,0,1,1,Low Performance
+Finland,1992 Winter Olympics,3,1,3,7,Low Performance
+France,1992 Winter Olympics,3,5,1,9,Low Performance
+Germany,1992 Winter Olympics,10,10,6,26,Low Performance
+Italy,1992 Winter Olympics,4,6,4,14,Low Performance
+Japan,1992 Winter Olympics,1,2,4,7,Low Performance
+Luxembourg,1992 Winter Olympics,0,2,0,2,Low Performance
+Netherlands,1992 Winter Olympics,1,1,2,4,Low Performance
+New Zealand,1992 Winter Olympics,0,1,0,1,Low Performance
+Norway,1992 Winter Olympics,9,6,5,20,Low Performance
+People's Republic of China,1992 Winter Olympics,0,3,0,3,Low Performance
+Republic of Korea,1992 Winter Olympics,2,1,1,4,Low Performance
+Spain,1992 Winter Olympics,0,0,1,1,Low Performance
+Sweden,1992 Winter Olympics,1,0,3,4,Low Performance
+Switzerland,1992 Winter Olympics,1,0,2,3,Low Performance
+Unified Team,1992 Winter Olympics,9,6,8,23,Low Performance
+United States,1992 Winter Olympics,5,4,2,11,Low Performance
+Australia,1994 Winter Olympics,0,0,1,1,Low Performance
+Austria,1994 Winter Olympics,2,3,4,9,Low Performance
+Belarus,1994 Winter Olympics,0,2,0,2,Low Performance
+Canada,1994 Winter Olympics,3,6,4,13,Low Performance
+Finland,1994 Winter Olympics,0,1,5,6,Low Performance
+France,1994 Winter Olympics,0,1,4,5,Low Performance
+Germany,1994 Winter Olympics,9,7,8,24,Low Performance
+Great Britain,1994 Winter Olympics,0,0,2,2,Low Performance
+Italy,1994 Winter Olympics,7,5,8,20,Low Performance
+Japan,1994 Winter Olympics,1,2,2,5,Low Performance
+Kazakhstan,1994 Winter Olympics,1,2,0,3,Low Performance
+Netherlands,1994 Winter Olympics,0,1,3,4,Low Performance
+Norway,1994 Winter Olympics,10,11,5,26,Low Performance
+People's Republic of China,1994 Winter Olympics,0,1,2,3,Low Performance
+Republic of Korea,1994 Winter Olympics,4,1,1,6,Low Performance
+Russian Federation,1994 Winter Olympics,11,8,4,23,Low Performance
+Slovenia,1994 Winter Olympics,0,0,3,3,Low Performance
+Sweden,1994 Winter Olympics,2,1,0,3,Low Performance
+Switzerland,1994 Winter Olympics,3,4,2,9,Low Performance
+Ukraine,1994 Winter Olympics,1,0,1,2,Low Performance
+United States,1994 Winter Olympics,6,5,2,13,Low Performance
+Uzbekistan,1994 Winter Olympics,1,0,0,1,Low Performance
+Algeria,1996 Summer Olympics,2,0,1,3,Low Performance
+Argentina,1996 Summer Olympics,0,2,1,3,Low Performance
+Armenia,1996 Summer Olympics,1,1,0,2,Low Performance
+Australia,1996 Summer Olympics,9,9,23,41,Low Performance
+Austria,1996 Summer Olympics,0,1,2,3,Low Performance
+Azerbaijan,1996 Summer Olympics,0,1,0,1,Low Performance
+Belarus,1996 Summer Olympics,1,6,8,15,Low Performance
+Belgium,1996 Summer Olympics,2,2,2,6,Low Performance
+Brazil,1996 Summer Olympics,3,3,9,15,Low Performance
+Bulgaria,1996 Summer Olympics,3,7,5,15,Low Performance
+Burundi,1996 Summer Olympics,1,0,0,1,Low Performance
+Canada,1996 Summer Olympics,3,11,8,22,Low Performance
+Chinese Taipei,1996 Summer Olympics,0,1,0,1,Low Performance
+Costa Rica,1996 Summer Olympics,1,0,0,1,Low Performance
+Croatia,1996 Summer Olympics,1,1,0,2,Low Performance
+Cuba,1996 Summer Olympics,9,8,8,25,Low Performance
+Czechia,1996 Summer Olympics,4,3,4,11,Low Performance
+Democratic People's Republic of Korea,1996 Summer Olympics,2,1,2,5,Low Performance
+Denmark,1996 Summer Olympics,4,1,1,6,Low Performance
+Ecuador,1996 Summer Olympics,1,0,0,1,Low Performance
+Ethiopia,1996 Summer Olympics,2,0,1,3,Low Performance
+Finland,1996 Summer Olympics,1,2,1,4,Low Performance
+France,1996 Summer Olympics,15,7,15,37,Low Performance
+Georgia,1996 Summer Olympics,0,0,2,2,Low Performance
+Germany,1996 Summer Olympics,20,18,27,65,High Performance
+Great Britain,1996 Summer Olympics,1,8,6,15,Low Performance
+Greece,1996 Summer Olympics,4,4,0,8,Low Performance
+Hong Kong, China,1996 Summer Olympics,1,0,0,1,Low Performance
+Hungary,1996 Summer Olympics,7,4,10,21,Low Performance
+India,1996 Summer Olympics,0,0,1,1,Low Performance
+Indonesia,1996 Summer Olympics,1,1,2,4,Low Performance
+Ireland,1996 Summer Olympics,3,0,1,4,Low Performance
+Islamic Republic of Iran,1996 Summer Olympics,1,1,1,3,Low Performance
+Israel,1996 Summer Olympics,0,0,1,1,Low Performance
+Italy,1996 Summer Olympics,13,10,12,35,Low Performance
+Jamaica,1996 Summer Olympics,1,3,2,6,Low Performance
+Japan,1996 Summer Olympics,3,6,5,14,Low Performance
+Kazakhstan,1996 Summer Olympics,3,4,4,11,Low Performance
+Kenya,1996 Summer Olympics,1,4,3,8,Low Performance
+Latvia,1996 Summer Olympics,0,1,0,1,Low Performance
+Lithuania,1996 Summer Olympics,0,0,1,1,Low Performance
+Malaysia,1996 Summer Olympics,0,1,1,2,Low Performance
+Mexico,1996 Summer Olympics,0,0,1,1,Low Performance
+Mongolia,1996 Summer Olympics,0,0,1,1,Low Performance
+Morocco,1996 Summer Olympics,0,0,2,2,Low Performance
+Mozambique,1996 Summer Olympics,0,0,1,1,Low Performance
+Namibia,1996 Summer Olympics,0,2,0,2,Low Performance
+Netherlands,1996 Summer Olympics,4,5,10,19,Low Performance
+New Zealand,1996 Summer Olympics,3,2,1,6,Low Performance
+Nigeria,1996 Summer Olympics,2,1,3,6,Low Performance
+Norway,1996 Summer Olympics,2,2,3,7,Low Performance
+People's Republic of China,1996 Summer Olympics,16,22,12,50,Low Performance
+Philippines,1996 Summer Olympics,0,1,0,1,Low Performance
+Poland,1996 Summer Olympics,7,5,5,17,Low Performance
+Portugal,1996 Summer Olympics,1,0,1,2,Low Performance
+Puerto Rico,1996 Summer Olympics,0,0,1,1,Low Performance
+Republic of Korea,1996 Summer Olympics,7,15,5,27,Low Performance
+Republic of Moldova,1996 Summer Olympics,0,1,1,2,Low Performance
+Romania,1996 Summer Olympics,4,7,9,20,Low Performance
+Russian Federation,1996 Summer Olympics,26,21,16,63,High Performance
+Serbia and Montenegro,1996 Summer Olympics,1,1,2,4,Low Performance
+Slovakia,1996 Summer Olympics,1,1,1,3,Low Performance
+Slovenia,1996 Summer Olympics,0,2,0,2,Low Performance
+South Africa,1996 Summer Olympics,3,1,1,5,Low Performance
+Spain,1996 Summer Olympics,5,6,6,17,Low Performance
+Sweden,1996 Summer Olympics,2,4,2,8,Low Performance
+Switzerland,1996 Summer Olympics,4,3,0,7,Low Performance
+Syrian Arab Republic,1996 Summer Olympics,1,0,0,1,Low Performance
+Türkiye,1996 Summer Olympics,4,1,1,6,Low Performance
+Thailand,1996 Summer Olympics,1,0,1,2,Low Performance
+The Bahamas,1996 Summer Olympics,0,1,0,1,Low Performance
+Tonga,1996 Summer Olympics,0,1,0,1,Low Performance
+Trinidad and Tobago,1996 Summer Olympics,0,0,2,2,Low Performance
+Tunisia,1996 Summer Olympics,0,0,1,1,Low Performance
+Uganda,1996 Summer Olympics,0,0,1,1,Low Performance
+Ukraine,1996 Summer Olympics,9,2,12,23,Low Performance
+United States,1996 Summer Olympics,44,32,25,101,High Performance
+Uzbekistan,1996 Summer Olympics,0,1,1,2,Low Performance
+Zambia,1996 Summer Olympics,0,1,0,1,Low Performance
+Australia,1998 Winter Olympics,0,0,1,1,Low Performance
+Austria,1998 Winter Olympics,3,5,9,17,Low Performance
+Belarus,1998 Winter Olympics,0,0,2,2,Low Performance
+Belgium,1998 Winter Olympics,0,0,1,1,Low Performance
+Bulgaria,1998 Winter Olympics,1,0,0,1,Low Performance
+Canada,1998 Winter Olympics,6,5,4,15,Low Performance
+Czechia,1998 Winter Olympics,1,1,1,3,Low Performance
+Denmark,1998 Winter Olympics,0,1,0,1,Low Performance
+Finland,1998 Winter Olympics,2,4,6,12,Low Performance
+France,1998 Winter Olympics,2,1,5,8,Low Performance
+Germany,1998 Winter Olympics,12,9,8,29,Low Performance
+Great Britain,1998 Winter Olympics,0,0,1,1,Low Performance
+Italy,1998 Winter Olympics,2,6,2,10,Low Performance
+Japan,1998 Winter Olympics,5,1,4,10,Low Performance
+Kazakhstan,1998 Winter Olympics,0,0,2,2,Low Performance
+Netherlands,1998 Winter Olympics,5,4,2,11,Low Performance
+Norway,1998 Winter Olympics,10,10,5,25,Low Performance
+People's Republic of China,1998 Winter Olympics,0,6,2,8,Low Performance
+Republic of Korea,1998 Winter Olympics,3,1,2,6,Low Performance
+Russian Federation,1998 Winter Olympics,9,6,3,18,Low Performance
+Sweden,1998 Winter Olympics,0,2,1,3,Low Performance
+Switzerland,1998 Winter Olympics,2,2,3,7,Low Performance
+Ukraine,1998 Winter Olympics,0,1,0,1,Low Performance
+United States,1998 Winter Olympics,6,3,4,13,Low Performance
+Algeria,2000 Summer Olympics,1,1,3,5,Low Performance
+Argentina,2000 Summer Olympics,0,2,2,4,Low Performance
+Armenia,2000 Summer Olympics,0,0,1,1,Low Performance
+Australia,2000 Summer Olympics,16,25,17,58,High Performance
+Austria,2000 Summer Olympics,2,1,0,3,Low Performance
+Azerbaijan,2000 Summer Olympics,2,0,1,3,Low Performance
+Barbados,2000 Summer Olympics,0,0,1,1,Low Performance
+Belarus,2000 Summer Olympics,3,3,11,17,Low Performance
+Belgium,2000 Summer Olympics,0,2,3,5,Low Performance
+Brazil,2000 Summer Olympics,0,6,6,12,Low Performance
+Bulgaria,2000 Summer Olympics,5,6,2,13,Low Performance
+Cameroon,2000 Summer Olympics,1,0,0,1,Low Performance
+Canada,2000 Summer Olympics,3,3,8,14,Low Performance
+Chile,2000 Summer Olympics,0,0,1,1,Low Performance
+Chinese Taipei,2000 Summer Olympics,0,1,4,5,Low Performance
+Colombia,2000 Summer Olympics,1,0,0,1,Low Performance
+Costa Rica,2000 Summer Olympics,0,0,2,2,Low Performance
+Croatia,2000 Summer Olympics,1,0,1,2,Low Performance
+Cuba,2000 Summer Olympics,11,11,7,29,Low Performance
+Czechia,2000 Summer Olympics,2,3,3,8,Low Performance
+Democratic People's Republic of Korea,2000 Summer Olympics,0,1,3,4,Low Performance
+Denmark,2000 Summer Olympics,2,3,1,6,Low Performance
+Estonia,2000 Summer Olympics,1,0,2,3,Low Performance
+Ethiopia,2000 Summer Olympics,4,1,3,8,Low Performance
+Finland,2000 Summer Olympics,2,1,1,4,Low Performance
+France,2000 Summer Olympics,13,14,11,38,Low Performance
+Georgia,2000 Summer Olympics,0,0,6,6,Low Performance
+Germany,2000 Summer Olympics,13,17,26,56,High Performance
+Great Britain,2000 Summer Olympics,11,10,7,28,Low Performance
+Greece,2000 Summer Olympics,4,6,3,13,Low Performance
+Hungary,2000 Summer Olympics,8,6,3,17,Low Performance
+Iceland,2000 Summer Olympics,0,0,1,1,Low Performance
+India,2000 Summer Olympics,0,0,1,1,Low Performance
+Indonesia,2000 Summer Olympics,1,3,2,6,Low Performance
+Ireland,2000 Summer Olympics,0,1,0,1,Low Performance
+Islamic Republic of Iran,2000 Summer Olympics,3,0,1,4,Low Performance
+Israel,2000 Summer Olympics,0,0,1,1,Low Performance
+Italy,2000 Summer Olympics,13,8,13,34,Low Performance
+Jamaica,2000 Summer Olympics,0,6,3,9,Low Performance
+Japan,2000 Summer Olympics,5,8,5,18,Low Performance
+Kazakhstan,2000 Summer Olympics,3,4,0,7,Low Performance
+Kenya,2000 Summer Olympics,2,3,2,7,Low Performance
+Kingdom of Saudi Arabia,2000 Summer Olympics,0,1,1,2,Low Performance
+Kuwait,2000 Summer Olympics,0,0,1,1,Low Performance
+Kyrgyzstan,2000 Summer Olympics,0,0,1,1,Low Performance
+Latvia,2000 Summer Olympics,1,1,1,3,Low Performance
+Lithuania,2000 Summer Olympics,2,0,3,5,Low Performance
+Mexico,2000 Summer Olympics,1,2,3,6,Low Performance
+Morocco,2000 Summer Olympics,0,1,4,5,Low Performance
+Mozambique,2000 Summer Olympics,1,0,0,1,Low Performance
+Netherlands,2000 Summer Olympics,12,9,4,25,Low Performance
+New Zealand,2000 Summer Olympics,1,0,3,4,Low Performance
+Nigeria,2000 Summer Olympics,1,2,0,3,Low Performance
+North Macedonia,2000 Summer Olympics,0,0,1,1,Low Performance
+Norway,2000 Summer Olympics,4,3,3,10,Low Performance
+People's Republic of China,2000 Summer Olympics,28,16,14,58,High Performance
+Poland,2000 Summer Olympics,6,5,3,14,Low Performance
+Portugal,2000 Summer Olympics,0,0,2,2,Low Performance
+Qatar,2000 Summer Olympics,0,0,1,1,Low Performance
+Republic of Korea,2000 Summer Olympics,8,10,10,28,Low Performance
+Republic of Moldova,2000 Summer Olympics,0,1,1,2,Low Performance
+Romania,2000 Summer Olympics,11,6,9,26,Low Performance
+Russian Federation,2000 Summer Olympics,32,28,29,89,High Performance
+Serbia and Montenegro,2000 Summer Olympics,1,1,1,3,Low Performance
+Slovakia,2000 Summer Olympics,1,3,1,5,Low Performance
+Slovenia,2000 Summer Olympics,2,0,0,2,Low Performance
+South Africa,2000 Summer Olympics,0,2,3,5,Low Performance
+Spain,2000 Summer Olympics,3,3,5,11,Low Performance
+Sri Lanka,2000 Summer Olympics,0,1,0,1,Low Performance
+Sweden,2000 Summer Olympics,4,5,3,12,Low Performance
+Switzerland,2000 Summer Olympics,1,6,2,9,Low Performance
+Türkiye,2000 Summer Olympics,3,0,2,5,Low Performance
+Thailand,2000 Summer Olympics,1,0,2,3,Low Performance
+The Bahamas,2000 Summer Olympics,2,0,1,3,Low Performance
+Trinidad and Tobago,2000 Summer Olympics,0,1,1,2,Low Performance
+Ukraine,2000 Summer Olympics,3,10,10,23,Low Performance
+United States,2000 Summer Olympics,37,24,32,93,High Performance
+Uruguay,2000 Summer Olympics,0,1,0,1,Low Performance
+Uzbekistan,2000 Summer Olympics,1,1,2,4,Low Performance
+Vietnam,2000 Summer Olympics,0,1,0,1,Low Performance
+Australia,2002 Winter Olympics,2,0,0,2,Low Performance
+Austria,2002 Winter Olympics,3,4,10,17,Low Performance
+Belarus,2002 Winter Olympics,0,0,1,1,Low Performance
+Bulgaria,2002 Winter Olympics,0,1,2,3,Low Performance
+Canada,2002 Winter Olympics,7,3,7,17,Low Performance
+Croatia,2002 Winter Olympics,3,1,0,4,Low Performance
+Czechia,2002 Winter Olympics,1,2,0,3,Low Performance
+Estonia,2002 Winter Olympics,1,1,1,3,Low Performance
+Finland,2002 Winter Olympics,4,2,1,7,Low Performance
+France,2002 Winter Olympics,4,5,2,11,Low Performance
+Germany,2002 Winter Olympics,12,16,8,36,Low Performance
+Great Britain,2002 Winter Olympics,1,0,1,2,Low Performance
+Italy,2002 Winter Olympics,4,4,5,13,Low Performance
+Japan,2002 Winter Olympics,0,1,1,2,Low Performance
+Netherlands,2002 Winter Olympics,3,5,0,8,Low Performance
+Norway,2002 Winter Olympics,13,5,7,25,Low Performance
+People's Republic of China,2002 Winter Olympics,2,2,4,8,Low Performance
+Poland,2002 Winter Olympics,0,1,1,2,Low Performance
+Republic of Korea,2002 Winter Olympics,2,2,0,4,Low Performance
+Russian Federation,2002 Winter Olympics,5,4,4,13,Low Performance
+Slovenia,2002 Winter Olympics,0,0,1,1,Low Performance
+Sweden,2002 Winter Olympics,0,2,5,7,Low Performance
+Switzerland,2002 Winter Olympics,3,2,6,11,Low Performance
+United States,2002 Winter Olympics,10,13,11,34,Low Performance
+Argentina,2004 Summer Olympics,2,0,4,6,Low Performance
+Australia,2004 Summer Olympics,17,16,17,50,Low Performance
+Austria,2004 Summer Olympics,2,4,1,7,Low Performance
+Azerbaijan,2004 Summer Olympics,1,0,4,5,Low Performance
+Belarus,2004 Summer Olympics,2,5,6,13,Low Performance
+Belgium,2004 Summer Olympics,1,0,2,3,Low Performance
+Brazil,2004 Summer Olympics,5,2,3,10,Low Performance
+Bulgaria,2004 Summer Olympics,2,1,9,12,Low Performance
+Cameroon,2004 Summer Olympics,1,0,0,1,Low Performance
+Canada,2004 Summer Olympics,3,6,3,12,Low Performance
+Chile,2004 Summer Olympics,2,0,1,3,Low Performance
+Chinese Taipei,2004 Summer Olympics,2,2,1,5,Low Performance
+Colombia,2004 Summer Olympics,0,0,2,2,Low Performance
+Croatia,2004 Summer Olympics,1,2,2,5,Low Performance
+Cuba,2004 Summer Olympics,9,7,11,27,Low Performance
+Czechia,2004 Summer Olympics,1,3,5,9,Low Performance
+Democratic People's Republic of Korea,2004 Summer Olympics,0,4,1,5,Low Performance
+Denmark,2004 Summer Olympics,2,1,5,8,Low Performance
+Dominican Republic,2004 Summer Olympics,1,0,0,1,Low Performance
+Egypt,2004 Summer Olympics,1,1,3,5,Low Performance
+Eritrea,2004 Summer Olympics,0,0,1,1,Low Performance
+Estonia,2004 Summer Olympics,0,1,2,3,Low Performance
+Ethiopia,2004 Summer Olympics,2,3,2,7,Low Performance
+Finland,2004 Summer Olympics,0,2,0,2,Low Performance
+France,2004 Summer Olympics,11,9,13,33,Low Performance
+Georgia,2004 Summer Olympics,2,2,0,4,Low Performance
+Germany,2004 Summer Olympics,13,16,20,49,Low Performance
+Great Britain,2004 Summer Olympics,9,9,12,30,Low Performance
+Greece,2004 Summer Olympics,6,6,4,16,Low Performance
+Hong Kong, China,2004 Summer Olympics,0,1,0,1,Low Performance
+Hungary,2004 Summer Olympics,8,6,3,17,Low Performance
+India,2004 Summer Olympics,0,1,0,1,Low Performance
+Indonesia,2004 Summer Olympics,1,1,2,4,Low Performance
+Islamic Republic of Iran,2004 Summer Olympics,2,2,2,6,Low Performance
+Israel,2004 Summer Olympics,1,0,1,2,Low Performance
+Italy,2004 Summer Olympics,10,11,11,32,Low Performance
+Jamaica,2004 Summer Olympics,2,1,2,5,Low Performance
+Japan,2004 Summer Olympics,16,9,12,37,Low Performance
+Kazakhstan,2004 Summer Olympics,1,4,3,8,Low Performance
+Kenya,2004 Summer Olympics,1,4,2,7,Low Performance
+Latvia,2004 Summer Olympics,0,4,0,4,Low Performance
+Lithuania,2004 Summer Olympics,1,2,0,3,Low Performance
+Mexico,2004 Summer Olympics,0,3,1,4,Low Performance
+Mongolia,2004 Summer Olympics,0,0,1,1,Low Performance
+Morocco,2004 Summer Olympics,2,1,0,3,Low Performance
+Netherlands,2004 Summer Olympics,4,9,9,22,Low Performance
+New Zealand,2004 Summer Olympics,3,2,0,5,Low Performance
+Nigeria,2004 Summer Olympics,0,0,2,2,Low Performance
+Norway,2004 Summer Olympics,5,0,1,6,Low Performance
+Paraguay,2004 Summer Olympics,0,1,0,1,Low Performance
+People's Republic of China,2004 Summer Olympics,32,17,14,63,High Performance
+Poland,2004 Summer Olympics,3,2,5,10,Low Performance
+Portugal,2004 Summer Olympics,0,2,1,3,Low Performance
+Republic of Korea,2004 Summer Olympics,9,12,9,30,Low Performance
+Romania,2004 Summer Olympics,8,5,6,19,Low Performance
+Russian Federation,2004 Summer Olympics,28,26,36,90,High Performance
+Serbia and Montenegro,2004 Summer Olympics,0,2,0,2,Low Performance
+Slovakia,2004 Summer Olympics,2,2,2,6,Low Performance
+Slovenia,2004 Summer Olympics,0,1,3,4,Low Performance
+South Africa,2004 Summer Olympics,1,3,2,6,Low Performance
+Spain,2004 Summer Olympics,3,11,6,20,Low Performance
+Sweden,2004 Summer Olympics,4,2,1,7,Low Performance
+Switzerland,2004 Summer Olympics,1,1,3,5,Low Performance
+Syrian Arab Republic,2004 Summer Olympics,0,0,1,1,Low Performance
+Türkiye,2004 Summer Olympics,3,3,4,10,Low Performance
+Thailand,2004 Summer Olympics,3,1,4,8,Low Performance
+The Bahamas,2004 Summer Olympics,1,0,1,2,Low Performance
+Trinidad and Tobago,2004 Summer Olympics,0,0,1,1,Low Performance
+Ukraine,2004 Summer Olympics,8,5,9,22,Low Performance
+United Arab Emirates,2004 Summer Olympics,1,0,0,1,Low Performance
+United States,2004 Summer Olympics,36,39,26,101,High Performance
+Uzbekistan,2004 Summer Olympics,2,1,2,5,Low Performance
+Venezuela,2004 Summer Olympics,0,0,2,2,Low Performance
+Zimbabwe,2004 Summer Olympics,1,1,1,3,Low Performance
+Australia,2006 Winter Olympics,1,0,1,2,Low Performance
+Austria,2006 Winter Olympics,9,7,7,23,Low Performance
+Belarus,2006 Winter Olympics,0,1,0,1,Low Performance
+Bulgaria,2006 Winter Olympics,0,1,0,1,Low Performance
+Canada,2006 Winter Olympics,7,10,7,24,Low Performance
+Croatia,2006 Winter Olympics,1,2,0,3,Low Performance
+Czechia,2006 Winter Olympics,1,2,1,4,Low Performance
+Estonia,2006 Winter Olympics,3,0,0,3,Low Performance
+Finland,2006 Winter Olympics,0,6,3,9,Low Performance
+France,2006 Winter Olympics,3,2,4,9,Low Performance
+Germany,2006 Winter Olympics,11,12,6,29,Low Performance
+Great Britain,2006 Winter Olympics,0,1,0,1,Low Performance
+Italy,2006 Winter Olympics,5,0,6,11,Low Performance
+Japan,2006 Winter Olympics,1,0,0,1,Low Performance
+Latvia,2006 Winter Olympics,0,0,1,1,Low Performance
+Netherlands,2006 Winter Olympics,3,2,4,9,Low Performance
+Norway,2006 Winter Olympics,2,8,9,19,Low Performance
+People's Republic of China,2006 Winter Olympics,2,4,5,11,Low Performance
+Poland,2006 Winter Olympics,0,1,1,2,Low Performance
+Republic of Korea,2006 Winter Olympics,6,3,2,11,Low Performance
+Russian Federation,2006 Winter Olympics,8,6,8,22,Low Performance
+Slovakia,2006 Winter Olympics,0,1,0,1,Low Performance
+Sweden,2006 Winter Olympics,7,2,5,14,Low Performance
+Switzerland,2006 Winter Olympics,5,4,5,14,Low Performance
+Ukraine,2006 Winter Olympics,0,0,2,2,Low Performance
+United States,2006 Winter Olympics,9,9,7,25,Low Performance
+Afghanistan,2008 Summer Olympics,0,0,1,1,Low Performance
+Algeria,2008 Summer Olympics,0,1,1,2,Low Performance
+Argentina,2008 Summer Olympics,2,0,4,6,Low Performance
+Armenia,2008 Summer Olympics,0,1,4,5,Low Performance
+Australia,2008 Summer Olympics,14,15,17,46,Low Performance
+Austria,2008 Summer Olympics,0,1,2,3,Low Performance
+Azerbaijan,2008 Summer Olympics,1,1,4,6,Low Performance
+Belarus,2008 Summer Olympics,3,4,7,14,Low Performance
+Belgium,2008 Summer Olympics,2,0,0,2,Low Performance
+Brazil,2008 Summer Olympics,3,4,10,17,Low Performance
+Bulgaria,2008 Summer Olympics,1,1,3,5,Low Performance
+Cameroon,2008 Summer Olympics,1,0,0,1,Low Performance
+Canada,2008 Summer Olympics,3,9,8,20,Low Performance
+Chile,2008 Summer Olympics,0,1,0,1,Low Performance
+Chinese Taipei,2008 Summer Olympics,1,1,2,4,Low Performance
+Colombia,2008 Summer Olympics,0,2,1,3,Low Performance
+Croatia,2008 Summer Olympics,0,2,3,5,Low Performance
+Cuba,2008 Summer Olympics,3,10,17,30,Low Performance
+Czechia,2008 Summer Olympics,3,3,1,7,Low Performance
+Democratic People's Republic of Korea,2008 Summer Olympics,2,2,2,6,Low Performance
+Denmark,2008 Summer Olympics,2,2,3,7,Low Performance
+Dominican Republic,2008 Summer Olympics,1,1,0,2,Low Performance
+Ecuador,2008 Summer Olympics,0,1,0,1,Low Performance
+Egypt,2008 Summer Olympics,0,0,2,2,Low Performance
+Estonia,2008 Summer Olympics,1,1,0,2,Low Performance
+Ethiopia,2008 Summer Olympics,4,2,1,7,Low Performance
+Finland,2008 Summer Olympics,1,1,2,4,Low Performance
+France,2008 Summer Olympics,7,16,20,43,Low Performance
+Georgia,2008 Summer Olympics,3,2,2,7,Low Performance
+Germany,2008 Summer Olympics,16,11,14,41,Low Performance
+Great Britain,2008 Summer Olympics,19,13,19,51,High Performance
+Greece,2008 Summer Olympics,0,2,1,3,Low Performance
+Hungary,2008 Summer Olympics,3,5,2,10,Low Performance
+Iceland,2008 Summer Olympics,0,1,0,1,Low Performance
+India,2008 Summer Olympics,1,0,2,3,Low Performance
+Indonesia,2008 Summer Olympics,1,1,4,6,Low Performance
+Ireland,2008 Summer Olympics,0,1,2,3,Low Performance
+Islamic Republic of Iran,2008 Summer Olympics,1,0,1,2,Low Performance
+Israel,2008 Summer Olympics,0,0,1,1,Low Performance
+Italy,2008 Summer Olympics,8,9,10,27,Low Performance
+Jamaica,2008 Summer Olympics,5,4,2,11,Low Performance
+Japan,2008 Summer Olympics,9,8,8,25,Low Performance
+Kazakhstan,2008 Summer Olympics,2,3,4,9,Low Performance
+Kenya,2008 Summer Olympics,6,4,6,16,Low Performance
+Kyrgyzstan,2008 Summer Olympics,0,1,2,3,Low Performance
+Latvia,2008 Summer Olympics,1,1,1,3,Low Performance
+Lithuania,2008 Summer Olympics,0,3,2,5,Low Performance
+Malaysia,2008 Summer Olympics,0,1,0,1,Low Performance
+Mauritius,2008 Summer Olympics,0,0,1,1,Low Performance
+Mexico,2008 Summer Olympics,2,0,2,4,Low Performance
+Mongolia,2008 Summer Olympics,2,2,0,4,Low Performance
+Morocco,2008 Summer Olympics,0,1,1,2,Low Performance
+Netherlands,2008 Summer Olympics,7,5,4,16,Low Performance
+New Zealand,2008 Summer Olympics,3,2,4,9,Low Performance
+Nigeria,2008 Summer Olympics,0,3,2,5,Low Performance
+Norway,2008 Summer Olympics,3,5,1,9,Low Performance
+Panama,2008 Summer Olympics,1,0,0,1,Low Performance
+People's Republic of China,2008 Summer Olympics,48,22,30,100,High Performance
+Poland,2008 Summer Olympics,4,5,2,11,Low Performance
+Portugal,2008 Summer Olympics,1,1,0,2,Low Performance
+Republic of Korea,2008 Summer Olympics,13,11,8,32,Low Performance
+Republic of Moldova,2008 Summer Olympics,0,0,1,1,Low Performance
+Romania,2008 Summer Olympics,4,1,4,9,Low Performance
+Russian Federation,2008 Summer Olympics,24,13,23,60,High Performance
+Samoa,2008 Summer Olympics,0,1,0,1,Low Performance
+Serbia,2008 Summer Olympics,0,1,2,3,Low Performance
+Singapore,2008 Summer Olympics,0,1,0,1,Low Performance
+Slovakia,2008 Summer Olympics,3,3,0,6,Low Performance
+Slovenia,2008 Summer Olympics,1,2,2,5,Low Performance
+South Africa,2008 Summer Olympics,0,1,0,1,Low Performance
+Spain,2008 Summer Olympics,5,11,3,19,Low Performance
+Sudan,2008 Summer Olympics,0,1,0,1,Low Performance
+Sweden,2008 Summer Olympics,0,4,1,5,Low Performance
+Switzerland,2008 Summer Olympics,2,1,4,7,Low Performance
+Türkiye,2008 Summer Olympics,1,1,3,5,Low Performance
+Tajikistan,2008 Summer Olympics,0,1,1,2,Low Performance
+Thailand,2008 Summer Olympics,2,2,2,6,Low Performance
+The Bahamas,2008 Summer Olympics,0,1,1,2,Low Performance
+Togo,2008 Summer Olympics,0,0,1,1,Low Performance
+Trinidad and Tobago,2008 Summer Olympics,1,1,0,2,Low Performance
+Tunisia,2008 Summer Olympics,1,0,0,1,Low Performance
+Ukraine,2008 Summer Olympics,7,4,11,22,Low Performance
+United States,2008 Summer Olympics,36,39,37,112,High Performance
+Uzbekistan,2008 Summer Olympics,0,1,3,4,Low Performance
+Venezuela,2008 Summer Olympics,0,0,1,1,Low Performance
+Vietnam,2008 Summer Olympics,0,1,0,1,Low Performance
+Zimbabwe,2008 Summer Olympics,1,3,0,4,Low Performance
+Australia,2010 Winter Olympics,2,1,0,3,Low Performance
+Austria,2010 Winter Olympics,4,6,6,16,Low Performance
+Belarus,2010 Winter Olympics,1,1,1,3,Low Performance
+Canada,2010 Winter Olympics,14,7,5,26,Low Performance
+Croatia,2010 Winter Olympics,0,2,1,3,Low Performance
+Czechia,2010 Winter Olympics,2,0,4,6,Low Performance
+Estonia,2010 Winter Olympics,0,1,0,1,Low Performance
+Finland,2010 Winter Olympics,0,1,4,5,Low Performance
+France,2010 Winter Olympics,2,3,6,11,Low Performance
+Germany,2010 Winter Olympics,10,13,7,30,Low Performance
+Great Britain,2010 Winter Olympics,1,0,0,1,Low Performance
+Italy,2010 Winter Olympics,1,1,3,5,Low Performance
+Japan,2010 Winter Olympics,0,3,2,5,Low Performance
+Kazakhstan,2010 Winter Olympics,0,1,0,1,Low Performance
+Latvia,2010 Winter Olympics,0,2,0,2,Low Performance
+Netherlands,2010 Winter Olympics,4,1,3,8,Low Performance
+Norway,2010 Winter Olympics,9,8,6,23,Low Performance
+People's Republic of China,2010 Winter Olympics,5,2,4,11,Low Performance
+Poland,2010 Winter Olympics,1,3,2,6,Low Performance
+Republic of Korea,2010 Winter Olympics,6,6,2,14,Low Performance
+Russian Federation,2010 Winter Olympics,3,5,7,15,Low Performance
+Slovakia,2010 Winter Olympics,1,1,1,3,Low Performance
+Slovenia,2010 Winter Olympics,0,2,1,3,Low Performance
+Sweden,2010 Winter Olympics,5,2,4,11,Low Performance
+Switzerland,2010 Winter Olympics,6,0,3,9,Low Performance
+United States,2010 Winter Olympics,9,15,13,37,Low Performance
+Afghanistan,2012 Summer Olympics,0,0,1,1,Low Performance
+Algeria,2012 Summer Olympics,1,0,0,1,Low Performance
+Argentina,2012 Summer Olympics,1,1,2,4,Low Performance
+Armenia,2012 Summer Olympics,0,1,1,2,Low Performance
+Australia,2012 Summer Olympics,8,15,12,35,Low Performance
+Azerbaijan,2012 Summer Olympics,2,2,5,9,Low Performance
+Bahrain,2012 Summer Olympics,1,0,0,1,Low Performance
+Belarus,2012 Summer Olympics,2,5,3,10,Low Performance
+Belgium,2012 Summer Olympics,0,1,2,3,Low Performance
+Botswana,2012 Summer Olympics,0,1,0,1,Low Performance
+Brazil,2012 Summer Olympics,3,5,9,17,Low Performance
+Bulgaria,2012 Summer Olympics,0,2,1,3,Low Performance
+Cameroon,2012 Summer Olympics,0,0,1,1,Low Performance
+Canada,2012 Summer Olympics,2,6,10,18,Low Performance
+Chinese Taipei,2012 Summer Olympics,1,0,1,2,Low Performance
+Colombia,2012 Summer Olympics,1,3,5,9,Low Performance
+Croatia,2012 Summer Olympics,3,1,2,6,Low Performance
+Cuba,2012 Summer Olympics,5,3,7,15,Low Performance
+Cyprus,2012 Summer Olympics,0,1,0,1,Low Performance
+Czechia,2012 Summer Olympics,4,4,3,11,Low Performance
+Democratic People's Republic of Korea,2012 Summer Olympics,4,0,3,7,Low Performance
+Denmark,2012 Summer Olympics,2,4,3,9,Low Performance
+Dominican Republic,2012 Summer Olympics,1,1,0,2,Low Performance
+Egypt,2012 Summer Olympics,0,3,1,4,Low Performance
+Estonia,2012 Summer Olympics,0,1,1,2,Low Performance
+Ethiopia,2012 Summer Olympics,3,2,3,8,Low Performance
+Finland,2012 Summer Olympics,0,2,1,3,Low Performance
+France,2012 Summer Olympics,11,11,13,35,Low Performance
+Gabon,2012 Summer Olympics,0,1,0,1,Low Performance
+Georgia,2012 Summer Olympics,1,2,3,6,Low Performance
+Germany,2012 Summer Olympics,11,20,13,44,Low Performance
+Great Britain,2012 Summer Olympics,29,18,18,65,High Performance
+Greece,2012 Summer Olympics,0,0,2,2,Low Performance
+Grenada,2012 Summer Olympics,1,0,0,1,Low Performance
+Guatemala,2012 Summer Olympics,0,1,0,1,Low Performance
+Hong Kong, China,2012 Summer Olympics,0,0,1,1,Low Performance
+Hungary,2012 Summer Olympics,8,4,6,18,Low Performance
+India,2012 Summer Olympics,0,2,4,6,Low Performance
+Indonesia,2012 Summer Olympics,0,2,1,3,Low Performance
+Ireland,2012 Summer Olympics,1,1,4,6,Low Performance
+Islamic Republic of Iran,2012 Summer Olympics,7,5,1,13,Low Performance
+Italy,2012 Summer Olympics,8,9,11,28,Low Performance
+Jamaica,2012 Summer Olympics,4,5,4,13,Low Performance
+Japan,2012 Summer Olympics,7,14,17,38,Low Performance
+Kazakhstan,2012 Summer Olympics,3,1,7,11,Low Performance
+Kenya,2012 Summer Olympics,2,4,7,13,Low Performance
+Kingdom of Saudi Arabia,2012 Summer Olympics,0,0,1,1,Low Performance
+Kuwait,2012 Summer Olympics,0,0,1,1,Low Performance
+Latvia,2012 Summer Olympics,1,0,1,2,Low Performance
+Lithuania,2012 Summer Olympics,2,0,3,5,Low Performance
+Malaysia,2012 Summer Olympics,0,1,1,2,Low Performance
+Mexico,2012 Summer Olympics,1,3,4,8,Low Performance
+Mongolia,2012 Summer Olympics,0,2,3,5,Low Performance
+Montenegro,2012 Summer Olympics,0,1,0,1,Low Performance
+Morocco,2012 Summer Olympics,0,0,1,1,Low Performance
+Netherlands,2012 Summer Olympics,6,6,8,20,Low Performance
+New Zealand,2012 Summer Olympics,6,2,5,13,Low Performance
+Norway,2012 Summer Olympics,2,1,1,4,Low Performance
+People's Republic of China,2012 Summer Olympics,39,31,22,92,High Performance
+Poland,2012 Summer Olympics,3,2,6,11,Low Performance
+Portugal,2012 Summer Olympics,0,1,0,1,Low Performance
+Puerto Rico,2012 Summer Olympics,0,1,1,2,Low Performance
+Qatar,2012 Summer Olympics,0,1,1,2,Low Performance
+Republic of Korea,2012 Summer Olympics,13,9,8,30,Low Performance
+Romania,2012 Summer Olympics,2,4,1,7,Low Performance
+Russian Federation,2012 Summer Olympics,18,21,26,65,High Performance
+Serbia,2012 Summer Olympics,1,1,2,4,Low Performance
+Singapore,2012 Summer Olympics,0,0,2,2,Low Performance
+Slovakia,2012 Summer Olympics,0,1,3,4,Low Performance
+Slovenia,2012 Summer Olympics,1,1,2,4,Low Performance
+South Africa,2012 Summer Olympics,4,1,1,6,Low Performance
+Spain,2012 Summer Olympics,4,10,6,20,Low Performance
+Sweden,2012 Summer Olympics,1,4,3,8,Low Performance
+Switzerland,2012 Summer Olympics,2,2,0,4,Low Performance
+Türkiye,2012 Summer Olympics,1,1,1,3,Low Performance
+Tajikistan,2012 Summer Olympics,0,0,1,1,Low Performance
+Thailand,2012 Summer Olympics,0,2,2,4,Low Performance
+The Bahamas,2012 Summer Olympics,1,0,0,1,Low Performance
+Trinidad and Tobago,2012 Summer Olympics,1,1,2,4,Low Performance
+Tunisia,2012 Summer Olympics,2,0,1,3,Low Performance
+Uganda,2012 Summer Olympics,1,0,0,1,Low Performance
+Ukraine,2012 Summer Olympics,5,4,10,19,Low Performance
+United States,2012 Summer Olympics,48,26,30,104,High Performance
+Uzbekistan,2012 Summer Olympics,0,0,3,3,Low Performance
+Venezuela,2012 Summer Olympics,1,0,0,1,Low Performance
+Vietnam,2012 Summer Olympics,0,0,1,1,Low Performance
+Australia,2014 Winter Olympics,0,2,1,3,Low Performance
+Austria,2014 Winter Olympics,4,8,5,17,Low Performance
+Belarus,2014 Winter Olympics,5,0,1,6,Low Performance
+Canada,2014 Winter Olympics,10,10,5,25,Low Performance
+Croatia,2014 Winter Olympics,0,1,0,1,Low Performance
+Czechia,2014 Winter Olympics,2,4,3,9,Low Performance
+Finland,2014 Winter Olympics,1,3,1,5,Low Performance
+France,2014 Winter Olympics,4,4,7,15,Low Performance
+Germany,2014 Winter Olympics,8,6,5,19,Low Performance
+Great Britain,2014 Winter Olympics,1,1,3,5,Low Performance
+Italy,2014 Winter Olympics,0,2,6,8,Low Performance
+Japan,2014 Winter Olympics,1,4,3,8,Low Performance
+Kazakhstan,2014 Winter Olympics,0,0,1,1,Low Performance
+Latvia,2014 Winter Olympics,1,1,3,5,Low Performance
+Netherlands,2014 Winter Olympics,8,7,9,24,Low Performance
+Norway,2014 Winter Olympics,11,6,9,26,Low Performance
+People's Republic of China,2014 Winter Olympics,3,4,2,9,Low Performance
+Poland,2014 Winter Olympics,4,1,1,6,Low Performance
+Republic of Korea,2014 Winter Olympics,3,3,2,8,Low Performance
+Russian Federation,2014 Winter Olympics,10,10,9,29,Low Performance
+Slovakia,2014 Winter Olympics,1,0,0,1,Low Performance
+Slovenia,2014 Winter Olympics,2,2,4,8,Low Performance
+Sweden,2014 Winter Olympics,2,7,6,15,Low Performance
+Switzerland,2014 Winter Olympics,7,2,2,11,Low Performance
+Ukraine,2014 Winter Olympics,1,0,1,2,Low Performance
+United States,2014 Winter Olympics,9,9,10,28,Low Performance
+Algeria,2016 Summer Olympics,0,2,0,2,Low Performance
+Argentina,2016 Summer Olympics,3,1,0,4,Low Performance
+Armenia,2016 Summer Olympics,1,3,0,4,Low Performance
+Australia,2016 Summer Olympics,8,11,10,29,Low Performance
+Austria,2016 Summer Olympics,0,0,1,1,Low Performance
+Azerbaijan,2016 Summer Olympics,1,7,10,18,Low Performance
+Bahrain,2016 Summer Olympics,1,1,0,2,Low Performance
+Belarus,2016 Summer Olympics,1,4,4,9,Low Performance
+Belgium,2016 Summer Olympics,2,2,2,6,Low Performance
+Brazil,2016 Summer Olympics,7,6,6,19,Low Performance
+Bulgaria,2016 Summer Olympics,0,1,2,3,Low Performance
+Burundi,2016 Summer Olympics,0,1,0,1,Low Performance
+Côte d'Ivoire,2016 Summer Olympics,1,0,1,2,Low Performance
+Canada,2016 Summer Olympics,4,3,15,22,Low Performance
+Chinese Taipei,2016 Summer Olympics,1,0,2,3,Low Performance
+Colombia,2016 Summer Olympics,3,2,3,8,Low Performance
+Croatia,2016 Summer Olympics,5,3,2,10,Low Performance
+Cuba,2016 Summer Olympics,5,2,4,11,Low Performance
+Czechia,2016 Summer Olympics,1,2,7,10,Low Performance
+Democratic People's Republic of Korea,2016 Summer Olympics,2,3,2,7,Low Performance
+Denmark,2016 Summer Olympics,2,6,7,15,Low Performance
+Dominican Republic,2016 Summer Olympics,0,0,1,1,Low Performance
+Egypt,2016 Summer Olympics,0,0,3,3,Low Performance
+Estonia,2016 Summer Olympics,0,0,1,1,Low Performance
+Ethiopia,2016 Summer Olympics,1,2,5,8,Low Performance
+Fiji,2016 Summer Olympics,1,0,0,1,Low Performance
+Finland,2016 Summer Olympics,0,0,1,1,Low Performance
+France,2016 Summer Olympics,10,18,14,42,Low Performance
+Georgia,2016 Summer Olympics,2,1,4,7,Low Performance
+Germany,2016 Summer Olympics,17,10,15,42,Low Performance
+Great Britain,2016 Summer Olympics,27,23,17,67,High Performance
+Greece,2016 Summer Olympics,3,1,2,6,Low Performance
+Grenada,2016 Summer Olympics,0,1,0,1,Low Performance
+Hungary,2016 Summer Olympics,8,3,4,15,Low Performance
+Independent Olympic Athletes,2016 Summer Olympics,1,0,1,2,Low Performance
+India,2016 Summer Olympics,0,1,1,2,Low Performance
+Indonesia,2016 Summer Olympics,1,2,0,3,Low Performance
+Ireland,2016 Summer Olympics,0,2,0,2,Low Performance
+Islamic Republic of Iran,2016 Summer Olympics,3,1,4,8,Low Performance
+Israel,2016 Summer Olympics,0,0,2,2,Low Performance
+Italy,2016 Summer Olympics,8,12,8,28,Low Performance
+Jamaica,2016 Summer Olympics,6,3,2,11,Low Performance
+Japan,2016 Summer Olympics,12,8,21,41,Low Performance
+Jordan,2016 Summer Olympics,1,0,0,1,Low Performance
+Kazakhstan,2016 Summer Olympics,2,5,10,17,Low Performance
+Kenya,2016 Summer Olympics,6,6,1,13,Low Performance
+Kosovo,2016 Summer Olympics,1,0,0,1,Low Performance
+Lithuania,2016 Summer Olympics,0,1,3,4,Low Performance
+Malaysia,2016 Summer Olympics,0,4,1,5,Low Performance
+Mexico,2016 Summer Olympics,0,3,2,5,Low Performance
+Mongolia,2016 Summer Olympics,0,1,1,2,Low Performance
+Morocco,2016 Summer Olympics,0,0,1,1,Low Performance
+Netherlands,2016 Summer Olympics,8,7,4,19,Low Performance
+New Zealand,2016 Summer Olympics,4,9,5,18,Low Performance
+Niger,2016 Summer Olympics,0,1,0,1,Low Performance
+Nigeria,2016 Summer Olympics,0,0,1,1,Low Performance
+Norway,2016 Summer Olympics,0,0,4,4,Low Performance
+People's Republic of China,2016 Summer Olympics,26,18,26,70,High Performance
+Philippines,2016 Summer Olympics,0,1,0,1,Low Performance
+Poland,2016 Summer Olympics,2,3,6,11,Low Performance
+Portugal,2016 Summer Olympics,0,0,1,1,Low Performance
+Puerto Rico,2016 Summer Olympics,1,0,0,1,Low Performance
+Qatar,2016 Summer Olympics,0,1,0,1,Low Performance
+Republic of Korea,2016 Summer Olympics,9,3,9,21,Low Performance
+Romania,2016 Summer Olympics,1,1,2,4,Low Performance
+Russian Federation,2016 Summer Olympics,19,17,20,56,High Performance
+Serbia,2016 Summer Olympics,2,4,2,8,Low Performance
+Singapore,2016 Summer Olympics,1,0,0,1,Low Performance
+Slovakia,2016 Summer Olympics,2,2,0,4,Low Performance
+Slovenia,2016 Summer Olympics,1,2,1,4,Low Performance
+South Africa,2016 Summer Olympics,2,6,2,10,Low Performance
+Spain,2016 Summer Olympics,7,4,6,17,Low Performance
+Sweden,2016 Summer Olympics,2,6,3,11,Low Performance
+Switzerland,2016 Summer Olympics,3,2,2,7,Low Performance
+Türkiye,2016 Summer Olympics,1,3,4,8,Low Performance
+Tajikistan,2016 Summer Olympics,1,0,0,1,Low Performance
+Thailand,2016 Summer Olympics,2,2,2,6,Low Performance
+The Bahamas,2016 Summer Olympics,1,0,1,2,Low Performance
+Trinidad and Tobago,2016 Summer Olympics,0,0,1,1,Low Performance
+Tunisia,2016 Summer Olympics,0,0,3,3,Low Performance
+Ukraine,2016 Summer Olympics,2,5,4,11,Low Performance
+United Arab Emirates,2016 Summer Olympics,0,0,1,1,Low Performance
+United States,2016 Summer Olympics,46,37,38,121,High Performance
+Uzbekistan,2016 Summer Olympics,4,2,7,13,Low Performance
+Venezuela,2016 Summer Olympics,0,2,1,3,Low Performance
+Vietnam,2016 Summer Olympics,1,1,0,2,Low Performance
+Australia,2018 Winter Olympics,0,2,1,3,Low Performance
+Austria,2018 Winter Olympics,5,3,6,14,Low Performance
+Belarus,2018 Winter Olympics,2,1,0,3,Low Performance
+Belgium,2018 Winter Olympics,0,1,0,1,Low Performance
+Canada,2018 Winter Olympics,11,8,10,29,Low Performance
+Czechia,2018 Winter Olympics,2,2,3,7,Low Performance
+Finland,2018 Winter Olympics,1,1,4,6,Low Performance
+France,2018 Winter Olympics,5,4,6,15,Low Performance
+Germany,2018 Winter Olympics,14,10,7,31,Low Performance
+Great Britain,2018 Winter Olympics,1,0,4,5,Low Performance
+Hungary,2018 Winter Olympics,1,0,0,1,Low Performance
+Italy,2018 Winter Olympics,3,2,5,10,Low Performance
+Japan,2018 Winter Olympics,4,5,4,13,Low Performance
+Kazakhstan,2018 Winter Olympics,0,0,1,1,Low Performance
+Latvia,2018 Winter Olympics,0,0,1,1,Low Performance
+Liechtenstein,2018 Winter Olympics,0,0,1,1,Low Performance
+Netherlands,2018 Winter Olympics,8,6,6,20,Low Performance
+New Zealand,2018 Winter Olympics,0,0,2,2,Low Performance
+Norway,2018 Winter Olympics,14,14,11,39,Low Performance
+People's Republic of China,2018 Winter Olympics,1,6,2,9,Low Performance
+Poland,2018 Winter Olympics,1,0,1,2,Low Performance
+Republic of Korea,2018 Winter Olympics,5,8,4,17,Low Performance
+ROC,2018 Winter Olympics,2,6,9,17,Low Performance
+Slovakia,2018 Winter Olympics,1,2,0,3,Low Performance
+Slovenia,2018 Winter Olympics,0,1,1,2,Low Performance
+Spain,2018 Winter Olympics,0,0,2,2,Low Performance
+Sweden,2018 Winter Olympics,7,6,1,14,Low Performance
+Switzerland,2018 Winter Olympics,5,6,4,15,Low Performance
+Ukraine,2018 Winter Olympics,1,0,0,1,Low Performance
+United States,2018 Winter Olympics,9,8,6,23,Low Performance
+Argentina,2020 Summer Olympics,0,1,2,3,Low Performance
+Armenia,2020 Summer Olympics,0,2,2,4,Low Performance
+Australia,2020 Summer Olympics,17,7,22,46,Low Performance
+Austria,2020 Summer Olympics,1,1,5,7,Low Performance
+Azerbaijan,2020 Summer Olympics,0,3,4,7,Low Performance
+Bahrain,2020 Summer Olympics,0,1,0,1,Low Performance
+Belarus,2020 Summer Olympics,1,3,3,7,Low Performance
+Belgium,2020 Summer Olympics,3,1,3,7,Low Performance
+Bermuda,2020 Summer Olympics,1,0,0,1,Low Performance
+Botswana,2020 Summer Olympics,0,0,1,1,Low Performance
+Brazil,2020 Summer Olympics,7,6,8,21,Low Performance
+Bulgaria,2020 Summer Olympics,3,1,2,6,Low Performance
+Burkina Faso,2020 Summer Olympics,0,0,1,1,Low Performance
+Côte d'Ivoire,2020 Summer Olympics,0,0,1,1,Low Performance
+Canada,2020 Summer Olympics,7,7,10,24,Low Performance
+Chinese Taipei,2020 Summer Olympics,2,4,6,12,Low Performance
+Colombia,2020 Summer Olympics,0,4,1,5,Low Performance
+Croatia,2020 Summer Olympics,3,3,2,8,Low Performance
+Cuba,2020 Summer Olympics,7,3,5,15,Low Performance
+Czechia,2020 Summer Olympics,4,4,3,11,Low Performance
+Denmark,2020 Summer Olympics,3,4,4,11,Low Performance
+Dominican Republic,2020 Summer Olympics,0,3,2,5,Low Performance
+Ecuador,2020 Summer Olympics,2,1,0,3,Low Performance
+Egypt,2020 Summer Olympics,1,1,4,6,Low Performance
+Estonia,2020 Summer Olympics,1,0,1,2,Low Performance
+Ethiopia,2020 Summer Olympics,1,1,2,4,Low Performance
+Fiji,2020 Summer Olympics,1,0,1,2,Low Performance
+Finland,2020 Summer Olympics,0,0,2,2,Low Performance
+France,2020 Summer Olympics,10,12,11,33,Low Performance
+Georgia,2020 Summer Olympics,2,5,1,8,Low Performance
+Germany,2020 Summer Olympics,10,11,16,37,Low Performance
+Ghana,2020 Summer Olympics,0,0,1,1,Low Performance
+Great Britain,2020 Summer Olympics,22,20,22,64,High Performance
+Greece,2020 Summer Olympics,2,1,1,4,Low Performance
+Grenada,2020 Summer Olympics,0,0,1,1,Low Performance
+Hong Kong, China,2020 Summer Olympics,1,2,3,6,Low Performance
+Hungary,2020 Summer Olympics,6,7,7,20,Low Performance
+India,2020 Summer Olympics,1,2,4,7,Low Performance
+Indonesia,2020 Summer Olympics,1,1,3,5,Low Performance
+Ireland,2020 Summer Olympics,2,0,2,4,Low Performance
+Islamic Republic of Iran,2020 Summer Olympics,3,2,2,7,Low Performance
+Israel,2020 Summer Olympics,2,0,2,4,Low Performance
+Italy,2020 Summer Olympics,10,10,20,40,Low Performance
+Jamaica,2020 Summer Olympics,4,1,4,9,Low Performance
+Japan,2020 Summer Olympics,27,14,17,58,High Performance
+Jordan,2020 Summer Olympics,0,1,1,2,Low Performance
+Kazakhstan,2020 Summer Olympics,0,0,8,8,Low Performance
+Kenya,2020 Summer Olympics,4,4,2,10,Low Performance
+Kingdom of Saudi Arabia,2020 Summer Olympics,0,1,0,1,Low Performance
+Kosovo,2020 Summer Olympics,2,0,0,2,Low Performance
+Kuwait,2020 Summer Olympics,0,0,1,1,Low Performance
+Kyrgyzstan,2020 Summer Olympics,0,2,1,3,Low Performance
+Latvia,2020 Summer Olympics,1,0,1,2,Low Performance
+Lithuania,2020 Summer Olympics,0,1,0,1,Low Performance
+Malaysia,2020 Summer Olympics,0,1,1,2,Low Performance
+Mexico,2020 Summer Olympics,0,0,4,4,Low Performance
+Mongolia,2020 Summer Olympics,0,1,3,4,Low Performance
+Morocco,2020 Summer Olympics,1,0,0,1,Low Performance
+Namibia,2020 Summer Olympics,0,1,0,1,Low Performance
+Netherlands,2020 Summer Olympics,10,12,14,36,Low Performance
+New Zealand,2020 Summer Olympics,7,6,7,20,Low Performance
+Nigeria,2020 Summer Olympics,0,1,1,2,Low Performance
+North Macedonia,2020 Summer Olympics,0,1,0,1,Low Performance
+Norway,2020 Summer Olympics,4,2,2,8,Low Performance
+People's Republic of China,2020 Summer Olympics,38,32,19,89,High Performance
+Philippines,2020 Summer Olympics,1,2,1,4,Low Performance
+Poland,2020 Summer Olympics,4,5,5,14,Low Performance
+Portugal,2020 Summer Olympics,1,1,2,4,Low Performance
+Puerto Rico,2020 Summer Olympics,1,0,0,1,Low Performance
+Qatar,2020 Summer Olympics,2,0,1,3,Low Performance
+Republic of Korea,2020 Summer Olympics,6,4,10,20,Low Performance
+Republic of Moldova,2020 Summer Olympics,0,0,1,1,Low Performance
+ROC,2020 Summer Olympics,20,28,23,71,High Performance
+Romania,2020 Summer Olympics,1,3,0,4,Low Performance
+San Marino,2020 Summer Olympics,0,1,2,3,Low Performance
+Serbia,2020 Summer Olympics,3,1,5,9,Low Performance
+Slovakia,2020 Summer Olympics,1,2,1,4,Low Performance
+Slovenia,2020 Summer Olympics,3,1,1,5,Low Performance
+South Africa,2020 Summer Olympics,1,2,0,3,Low Performance
+Spain,2020 Summer Olympics,3,8,6,17,Low Performance
+Sweden,2020 Summer Olympics,3,6,0,9,Low Performance
+Switzerland,2020 Summer Olympics,3,4,6,13,Low Performance
+Syrian Arab Republic,2020 Summer Olympics,0,0,1,1,Low Performance
+Türkiye,2020 Summer Olympics,2,2,9,13,Low Performance
+Thailand,2020 Summer Olympics,1,0,1,2,Low Performance
+The Bahamas,2020 Summer Olympics,2,0,0,2,Low Performance
+Tunisia,2020 Summer Olympics,1,1,0,2,Low Performance
+Turkmenistan,2020 Summer Olympics,0,1,0,1,Low Performance
+Uganda,2020 Summer Olympics,2,1,1,4,Low Performance
+Ukraine,2020 Summer Olympics,1,6,12,19,Low Performance
+United States,2020 Summer Olympics,39,41,33,113,High Performance
+Uzbekistan,2020 Summer Olympics,3,0,2,5,Low Performance
+Venezuela,2020 Summer Olympics,1,3,0,4,Low Performance
+Australia,2022 Winter Olympics,1,2,1,4,Low Performance
+Austria,2022 Winter Olympics,7,7,4,18,Low Performance
+Belarus,2022 Winter Olympics,0,2,0,2,Low Performance
+Belgium,2022 Winter Olympics,1,0,1,2,Low Performance
+Canada,2022 Winter Olympics,4,8,14,26,Low Performance
+Czechia,2022 Winter Olympics,1,0,1,2,Low Performance
+Estonia,2022 Winter Olympics,0,0,1,1,Low Performance
+Finland,2022 Winter Olympics,2,2,4,8,Low Performance
+France,2022 Winter Olympics,5,7,2,14,Low Performance
+Germany,2022 Winter Olympics,12,10,5,27,Low Performance
+Great Britain,2022 Winter Olympics,1,1,0,2,Low Performance
+Hungary,2022 Winter Olympics,1,0,2,3,Low Performance
+Italy,2022 Winter Olympics,2,7,8,17,Low Performance
+Japan,2022 Winter Olympics,3,6,9,18,Low Performance
+Latvia,2022 Winter Olympics,0,0,1,1,Low Performance
+Netherlands,2022 Winter Olympics,8,5,4,17,Low Performance
+New Zealand,2022 Winter Olympics,2,1,0,3,Low Performance
+Norway,2022 Winter Olympics,16,8,13,37,Low Performance
+People's Republic of China,2022 Winter Olympics,9,4,2,15,Low Performance
+Poland,2022 Winter Olympics,0,0,1,1,Low Performance
+Republic of Korea,2022 Winter Olympics,2,5,2,9,Low Performance
+ROC,2022 Winter Olympics,6,12,14,32,Low Performance
+Slovakia,2022 Winter Olympics,1,0,1,2,Low Performance
+Slovenia,2022 Winter Olympics,2,3,2,7,Low Performance
+Spain,2022 Winter Olympics,0,1,0,1,Low Performance
+Sweden,2022 Winter Olympics,8,5,5,18,Low Performance
+Switzerland,2022 Winter Olympics,7,2,6,15,Low Performance
+Ukraine,2022 Winter Olympics,0,1,0,1,Low Performance
+United States,2022 Winter Olympics,8,10,7,25,Low Performance

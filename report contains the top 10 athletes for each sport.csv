@@ -1,0 +1,756 @@
+athlete,athlete_id,medals_won,sport,rank
+,146216,1,3x3 Basketball,1
+,147143,1,3x3 Basketball,2
+,146594,1,3x3 Basketball,3
+,146595,1,3x3 Basketball,4
+,145107,1,3x3 Basketball,5
+,145106,1,3x3 Basketball,6
+,146218,1,3x3 Basketball,7
+,146596,1,3x3 Basketball,8
+,145108,1,3x3 Basketball,9
+,147647,1,3x3 Basketball,10
+,902123,1,Aeronautics,1
+,99335,8,Alpine Skiing,1
+,101719,6,Alpine Skiing,2
+,99516,6,Alpine Skiing,3
+,99432,6,Alpine Skiing,4
+,88005,5,Alpine Skiing,5
+,128455,5,Alpine Skiing,6
+,82343,5,Alpine Skiing,7
+,110097,5,Alpine Skiing,8
+,98310,5,Alpine Skiing,9
+,82306,5,Alpine Skiing,10
+,921691,4,Alpinism,1
+,921678,4,Alpinism,2
+,921671,4,Alpinism,3
+,921674,4,Alpinism,4
+,921682,4,Alpinism,5
+,921672,4,Alpinism,6
+,901507,4,Alpinism,7
+,921693,4,Alpinism,8
+,921673,4,Alpinism,9
+,921683,4,Alpinism,10
+,333,10,Archery,1
+,1962,6,Archery,2
+,459,5,Archery,3
+,124392,4,Archery,4
+,102820,4,Archery,5
+,492,4,Archery,6
+,475,4,Archery,7
+,330,4,Archery,8
+,1921,3,Archery,9
+,124388,3,Archery,10
+,921283,3,Art Competitions,1
+,920239,3,Art Competitions,2
+,921031,2,Art Competitions,3
+,920023,2,Art Competitions,4
+,920352,2,Art Competitions,5
+,921200,2,Art Competitions,6
+,921223,1,Art Competitions,7
+,920130,1,Art Competitions,8
+,921250,1,Art Competitions,9
+,920734,1,Art Competitions,10
+,29198,18,Artistic Gymnastics,1
+,31235,15,Artistic Gymnastics,2
+,30611,13,Artistic Gymnastics,3
+,31267,13,Artistic Gymnastics,4
+,30978,12,Artistic Gymnastics,5
+,30593,12,Artistic Gymnastics,6
+,31270,11,Artistic Gymnastics,7
+,29115,11,Artistic Gymnastics,8
+,29462,10,Artistic Gymnastics,9
+,29175,10,Artistic Gymnastics,10
+,116141,7,Artistic Swimming,1
+,116137,7,Artistic Swimming,2
+,122364,5,Artistic Swimming,3
+,107679,5,Artistic Swimming,4
+,48709,5,Artistic Swimming,5
+,48703,5,Artistic Swimming,6
+,116134,5,Artistic Swimming,7
+,107680,4,Artistic Swimming,8
+,107723,4,Artistic Swimming,9
+,45890,3,Artistic Swimming,10
+,67728,12,Athletics,1
+,105293,11,Athletics,2
+,78692,10,Athletics,3
+,67783,8,Athletics,4
+,78385,8,Athletics,5
+,105512,8,Athletics,6
+,72229,7,Athletics,7
+,114740,7,Athletics,8
+,69965,7,Athletics,9
+,77990,7,Athletics,10
+,89244,4,Badminton,1
+,121932,3,Badminton,2
+,105855,3,Badminton,3
+,916,3,Badminton,4
+,105879,3,Badminton,5
+,888,3,Badminton,6
+,121939,3,Badminton,7
+,121936,3,Badminton,8
+,82700,2,Badminton,9
+,133435,2,Badminton,10
+,1500,4,Baseball,1
+,1513,3,Baseball,2
+,1501,3,Baseball,3
+,89708,3,Baseball,4
+,1499,3,Baseball,5
+,1486,3,Baseball,6
+,1507,3,Baseball,7
+,1512,3,Baseball,8
+,89704,3,Baseball,9
+,1509,3,Baseball,10
+,5226,5,Basketball,1
+,103092,5,Basketball,2
+,103097,5,Basketball,3
+,108542,4,Basketball,4
+,7318,4,Basketball,5
+,82816,4,Basketball,6
+,5336,4,Basketball,7
+,103095,4,Basketball,8
+,111846,4,Basketball,9
+,5708,4,Basketball,10
+,80299,1,Basque pelota,1
+,80300,1,Basque pelota,2
+,94350,3,Beach Volleyball,1
+,126600,3,Beach Volleyball,2
+,51906,3,Beach Volleyball,3
+,94592,3,Beach Volleyball,4
+,122888,2,Beach Volleyball,5
+,51770,2,Beach Volleyball,6
+,94351,2,Beach Volleyball,7
+,51902,2,Beach Volleyball,8
+,94352,2,Beach Volleyball,9
+,51773,2,Beach Volleyball,10
+,84154,13,Biathlon,1
+,80953,9,Biathlon,2
+,128188,8,Biathlon,3
+,111029,8,Biathlon,4
+,86249,8,Biathlon,5
+,128184,8,Biathlon,6
+,85733,8,Biathlon,7
+,100035,7,Biathlon,8
+,118554,7,Biathlon,9
+,86432,6,Biathlon,10
+,95658,7,Bobsleigh,1
+,95556,6,Bobsleigh,2
+,101871,6,Bobsleigh,3
+,87147,6,Bobsleigh,4
+,118672,5,Bobsleigh,5
+,85659,5,Bobsleigh,6
+,101869,5,Bobsleigh,7
+,101879,4,Bobsleigh,8
+,89398,4,Bobsleigh,9
+,86027,4,Bobsleigh,10
+,4740,3,Boxing,1
+,1681,3,Boxing,2
+,8514,3,Boxing,3
+,7760,3,Boxing,4
+,8021,3,Boxing,5
+,106357,3,Boxing,6
+,112901,3,Boxing,7
+,3832,3,Boxing,8
+,123509,3,Boxing,9
+,1683,3,Boxing,10
+,10762,3,Canoe Marathon,1
+,9624,2,Canoe Marathon,2
+,11094,2,Canoe Marathon,3
+,9970,2,Canoe Marathon,4
+,10813,2,Canoe Marathon,5
+,10811,2,Canoe Marathon,6
+,9565,2,Canoe Marathon,7
+,10899,1,Canoe Marathon,8
+,9105,1,Canoe Marathon,9
+,10424,1,Canoe Marathon,10
+,10719,5,Canoe Slalom,1
+,123753,4,Canoe Slalom,2
+,90263,4,Canoe Slalom,3
+,90262,4,Canoe Slalom,4
+,116621,3,Canoe Slalom,5
+,90175,3,Canoe Slalom,6
+,116471,3,Canoe Slalom,7
+,10714,2,Canoe Slalom,8
+,9589,2,Canoe Slalom,9
+,11029,2,Canoe Slalom,10
+,116671,8,Canoe Sprint,1
+,90202,8,Canoe Sprint,2
+,10605,7,Canoe Sprint,3
+,9879,7,Canoe Sprint,4
+,10730,7,Canoe Sprint,5
+,10397,6,Canoe Sprint,6
+,126097,6,Canoe Sprint,7
+,9824,6,Canoe Sprint,8
+,10026,6,Canoe Sprint,9
+,90189,5,Canoe Sprint,10
+,17920,1,Cricket,1
+,17822,1,Cricket,2
+,17830,1,Cricket,3
+,3100005,1,Cricket,4
+,3100008,1,Cricket,5
+,17923,1,Cricket,6
+,17820,1,Cricket,7
+,17819,1,Cricket,8
+,17824,1,Cricket,9
+,17915,1,Cricket,10
+,17840,2,Croquet,1
+,17836,2,Croquet,2
+,17831,2,Croquet,3
+,17839,1,Croquet,4
+,17838,1,Croquet,5
+,101008,15,Cross Country Skiing,1
+,85378,12,Cross Country Skiing,2
+,80627,10,Cross Country Skiing,3
+,82399,10,Cross Country Skiing,4
+,87535,9,Cross Country Skiing,5
+,83087,9,Cross Country Skiing,6
+,137797,9,Cross Country Skiing,7
+,118748,9,Cross Country Skiing,8
+,81587,8,Cross Country Skiing,9
+,95693,7,Cross Country Skiing,10
+,138426,4,Curling,1
+,118916,3,Curling,2
+,138421,3,Curling,3
+,138164,2,Curling,4
+,138169,2,Curling,5
+,110185,2,Curling,6
+,110186,2,Curling,7
+,110184,2,Curling,8
+,110167,2,Curling,9
+,127980,2,Curling,10
+,140736,1,Cycling BMX Freestyle,1
+,142975,1,Cycling BMX Freestyle,2
+,146634,1,Cycling BMX Freestyle,3
+,143120,1,Cycling BMX Freestyle,4
+,147562,1,Cycling BMX Freestyle,5
+,147147,1,Cycling BMX Freestyle,6
+,125006,3,Cycling BMX Racing,1
+,133260,2,Cycling BMX Racing,2
+,113299,2,Cycling BMX Racing,3
+,143121,1,Cycling BMX Racing,4
+,145454,1,Cycling BMX Racing,5
+,113292,1,Cycling BMX Racing,6
+,135246,1,Cycling BMX Racing,7
+,113117,1,Cycling BMX Racing,8
+,123792,1,Cycling BMX Racing,9
+,124037,1,Cycling BMX Racing,10
+,113245,3,Cycling Mountain Bike,1
+,90409,3,Cycling Mountain Bike,2
+,107997,2,Cycling Mountain Bike,3
+,15512,2,Cycling Mountain Bike,4
+,13198,2,Cycling Mountain Bike,5
+,107978,2,Cycling Mountain Bike,6
+,108020,2,Cycling Mountain Bike,7
+,13711,2,Cycling Mountain Bike,8
+,90507,1,Cycling Mountain Bike,9
+,13237,1,Cycling Mountain Bike,10
+,13167,4,Cycling Road,1
+,14651,3,Cycling Road,2
+,13253,3,Cycling Road,3
+,103695,3,Cycling Road,4
+,14285,3,Cycling Road,5
+,15461,3,Cycling Road,6
+,103662,3,Cycling Road,7
+,131139,3,Cycling Road,8
+,120531,3,Cycling Road,9
+,14579,2,Cycling Road,10
+,113166,9,Cycling Track,1
+,90392,7,Cycling Track,2
+,90388,7,Cycling Track,3
+,14189,6,Cycling Track,4
+,106841,6,Cycling Track,5
+,15574,5,Cycling Track,6
+,14321,5,Cycling Track,7
+,15736,5,Cycling Track,8
+,124648,5,Cycling Track,9
+,14821,5,Cycling Track,10
+,50061,8,Diving,1
+,107913,7,Diving,2
+,46077,6,Diving,3
+,46156,5,Diving,4
+,51468,5,Diving,5
+,46071,5,Diving,6
+,116070,5,Diving,7
+,116031,5,Diving,8
+,122304,5,Diving,9
+,90623,5,Diving,10
+,11503,12,Equestrian Dressage,1
+,11490,9,Equestrian Dressage,2
+,12244,8,Equestrian Dressage,3
+,12487,6,Equestrian Dressage,4
+,125495,6,Equestrian Dressage,5
+,12196,5,Equestrian Dressage,6
+,11469,5,Equestrian Dressage,7
+,11744,5,Equestrian Dressage,8
+,11966,5,Equestrian Dressage,9
+,11395,5,Equestrian Dressage,10
+,80291,1,Equestrian Driving,1
+,11841,1,Equestrian Driving,2
+,12478,1,Equestrian Driving,3
+,12574,6,Equestrian Eventing,1
+,12141,6,Equestrian Eventing,2
+,12855,6,Equestrian Eventing,3
+,12534,5,Equestrian Eventing,4
+,11808,4,Equestrian Eventing,5
+,12782,4,Equestrian Eventing,6
+,12822,4,Equestrian Eventing,7
+,12849,4,Equestrian Eventing,8
+,125637,4,Equestrian Eventing,9
+,12669,3,Equestrian Eventing,10
+,13010,7,Equestrian Jumping,1
+,11606,6,Equestrian Jumping,2
+,11887,6,Equestrian Jumping,3
+,11886,6,Equestrian Jumping,4
+,11981,4,Equestrian Jumping,5
+,107023,4,Equestrian Jumping,6
+,12194,4,Equestrian Jumping,7
+,12787,4,Equestrian Jumping,8
+,107020,4,Equestrian Jumping,9
+,12711,4,Equestrian Jumping,10
+,11965,2,Equestrian Vaulting,1
+,11961,2,Equestrian Vaulting,2
+,11656,2,Equestrian Vaulting,3
+,12050,1,Equestrian Vaulting,4
+,12685,1,Equestrian Vaulting,5
+,12477,1,Equestrian Vaulting,6
+,11738,1,Equestrian Vaulting,7
+,12910,1,Equestrian Vaulting,8
+,12497,1,Equestrian Vaulting,9
+,22677,13,Fencing,1
+,22451,10,Fencing,2
+,22668,9,Fencing,3
+,20803,9,Fencing,4
+,21772,8,Fencing,5
+,20800,8,Fencing,6
+,21846,8,Fencing,7
+,22483,7,Fencing,8
+,22684,7,Fencing,9
+,21763,6,Fencing,10
+,119121,5,Figure Skating,1
+,119129,5,Figure Skating,2
+,101967,4,Figure Skating,3
+,128356,4,Figure Skating,4
+,86175,4,Figure Skating,5
+,119064,3,Figure Skating,6
+,81707,3,Figure Skating,7
+,101243,3,Figure Skating,8
+,127487,3,Figure Skating,9
+,85233,3,Figure Skating,10
+,111155,3,Football,1
+,111213,3,Football,2
+,122762,3,Football,3
+,25375,3,Football,4
+,27683,3,Football,5
+,90954,3,Football,6
+,27674,3,Football,7
+,90907,3,Football,8
+,25684,3,Football,9
+,25734,3,Football,10
+,119040,3,Freestyle Skiing,1
+,127471,3,Freestyle Skiing,2
+,118979,3,Freestyle Skiing,3
+,82892,3,Freestyle Skiing,4
+,138056,3,Freestyle Skiing,5
+,128711,3,Freestyle Skiing,6
+,139214,3,Freestyle Skiing,7
+,128715,3,Freestyle Skiing,8
+,138294,2,Freestyle Skiing,9
+,110337,2,Freestyle Skiing,10
+,131287,2,Golf,1
+,18185,2,Golf,2
+,18182,2,Golf,3
+,18159,2,Golf,4
+,18177,1,Golf,5
+,18149,1,Golf,6
+,18179,1,Golf,7
+,18191,1,Golf,8
+,18174,1,Golf,9
+,2786,1,Golf,10
+,112019,4,Handball,1
+,113759,4,Handball,2
+,32625,4,Handball,3
+,32379,4,Handball,4
+,108666,4,Handball,5
+,108665,4,Handball,6
+,32736,3,Handball,7
+,32611,3,Handball,8
+,112020,3,Handball,9
+,32737,3,Handball,10
+,114027,4,Hockey,1
+,114028,4,Hockey,2
+,19159,4,Hockey,3
+,91766,4,Hockey,4
+,19736,4,Hockey,5
+,19312,4,Hockey,6
+,19227,3,Hockey,7
+,19762,3,Hockey,8
+,17472,3,Hockey,9
+,17522,3,Hockey,10
+,100370,5,Ice Hockey,1
+,100360,5,Ice Hockey,2
+,100590,4,Ice Hockey,3
+,110248,4,Ice Hockey,4
+,100352,4,Ice Hockey,5
+,86717,4,Ice Hockey,6
+,119215,4,Ice Hockey,7
+,89529,4,Ice Hockey,8
+,119353,4,Ice Hockey,9
+,100467,4,Ice Hockey,10
+,18215,1,Jeu De Paume,1
+,17930,1,Jeu De Paume,2
+,17931,1,Jeu De Paume,3
+,112724,5,Judo,1
+,112605,4,Judo,2
+,33180,4,Judo,3
+,34206,4,Judo,4
+,33304,3,Judo,5
+,130152,3,Judo,6
+,33680,3,Judo,7
+,33843,3,Judo,8
+,92381,3,Judo,9
+,121786,3,Judo,10
+,145085,1,Karate,1
+,144403,1,Karate,2
+,141711,1,Karate,3
+,146584,1,Karate,4
+,142555,1,Karate,5
+,146969,1,Karate,6
+,147026,1,Karate,7
+,144782,1,Karate,8
+,141317,1,Karate,9
+,143680,1,Karate,10
+,18223,1,Lacrosse,1
+,17316,1,Lacrosse,2
+,17938,1,Lacrosse,3
+,18219,1,Lacrosse,4
+,18221,1,Lacrosse,5
+,18217,1,Lacrosse,6
+,17308,1,Lacrosse,7
+,17939,1,Lacrosse,8
+,18220,1,Lacrosse,9
+,18224,1,Lacrosse,10
+,119444,7,Luge,1
+,127856,6,Luge,2
+,99296,6,Luge,3
+,127853,6,Luge,4
+,86358,5,Luge,5
+,84251,4,Luge,6
+,88609,4,Luge,7
+,83964,4,Luge,8
+,137316,4,Luge,9
+,86640,3,Luge,10
+,125722,2,Marathon Swimming,1
+,104147,2,Marathon Swimming,2
+,124759,1,Marathon Swimming,3
+,93816,1,Marathon Swimming,4
+,130687,1,Marathon Swimming,5
+,140690,1,Marathon Swimming,6
+,93497,1,Marathon Swimming,7
+,133910,1,Marathon Swimming,8
+,116001,1,Marathon Swimming,9
+,135285,1,Marathon Swimming,10
+,92104,1,Military Ski Patrol,1
+,95248,1,Military Ski Patrol,2
+,100760,1,Military Ski Patrol,3
+,100763,1,Military Ski Patrol,4
+,100759,1,Military Ski Patrol,5
+,100762,1,Military Ski Patrol,6
+,100755,1,Military Ski Patrol,7
+,100756,1,Military Ski Patrol,8
+,83745,1,Military Ski Patrol,9
+,87664,1,Military Ski Patrol,10
+,35117,7,Modern Pentathlon,1
+,34890,5,Modern Pentathlon,2
+,34843,5,Modern Pentathlon,3
+,35122,4,Modern Pentathlon,4
+,34860,3,Modern Pentathlon,5
+,34856,3,Modern Pentathlon,6
+,35123,3,Modern Pentathlon,7
+,35073,3,Modern Pentathlon,8
+,34889,3,Modern Pentathlon,9
+,35128,3,Modern Pentathlon,10
+,17956,2,Motorboating,1
+,17955,2,Motorboating,2
+,17950,2,Motorboating,3
+,17850,1,Motorboating,4
+,86160,7,Nordic Combined,1
+,119468,7,Nordic Combined,2
+,128220,6,Nordic Combined,3
+,99970,5,Nordic Combined,4
+,101095,4,Nordic Combined,5
+,119466,4,Nordic Combined,6
+,101080,4,Nordic Combined,7
+,110874,4,Nordic Combined,8
+,98643,4,Nordic Combined,9
+,97784,4,Nordic Combined,10
+,17812,2,Polo,1
+,17810,2,Polo,2
+,17986,2,Polo,3
+,17966,2,Polo,4
+,17959,2,Polo,5
+,17811,2,Polo,6
+,17961,2,Polo,7
+,17818,2,Polo,8
+,17976,1,Polo,9
+,18229,1,Polo,10
+,17992,2,Racquets,1
+,17991,2,Racquets,2
+,17987,2,Racquets,3
+,17993,1,Racquets,4
+,17988,1,Racquets,5
+,17990,1,Racquets,6
+,17989,1,Racquets,7
+,120404,3,Rhythmic Gymnastics,1
+,116856,2,Rhythmic Gymnastics,2
+,131593,2,Rhythmic Gymnastics,3
+,131594,2,Rhythmic Gymnastics,4
+,29215,2,Rhythmic Gymnastics,5
+,116859,2,Rhythmic Gymnastics,6
+,91563,2,Rhythmic Gymnastics,7
+,107894,2,Rhythmic Gymnastics,8
+,107838,2,Rhythmic Gymnastics,9
+,107890,2,Rhythmic Gymnastics,10
+,102561,1,Roque,1
+,102560,1,Roque,2
+,102562,1,Roque,3
+,39517,7,Rowing,1
+,39501,6,Rowing,2
+,37440,6,Rowing,3
+,39531,5,Rowing,4
+,37676,5,Rowing,5
+,36061,5,Rowing,6
+,37218,5,Rowing,7
+,39498,5,Rowing,8
+,36485,5,Rowing,9
+,92558,5,Rowing,10
+,11240,2,Rugby,1
+,18255,2,Rugby,2
+,17874,2,Rugby,3
+,18240,2,Rugby,4
+,1202197,2,Rugby,5
+,18250,2,Rugby,6
+,1202196,2,Rugby,7
+,18251,2,Rugby,8
+,18254,2,Rugby,9
+,18107,1,Rugby,10
+,131305,2,Rugby Sevens,1
+,131312,2,Rugby Sevens,2
+,131313,2,Rugby Sevens,3
+,133771,2,Rugby Sevens,4
+,131302,2,Rugby Sevens,5
+,131308,2,Rugby Sevens,6
+,131307,2,Rugby Sevens,7
+,134040,1,Rugby Sevens,8
+,135731,1,Rugby Sevens,9
+,134031,1,Rugby Sevens,10
+,61109,5,Sailing,1
+,62180,5,Sailing,2
+,63567,5,Sailing,3
+,62362,4,Sailing,4
+,61927,4,Sailing,5
+,61046,4,Sailing,6
+,61945,4,Sailing,7
+,63599,4,Sailing,8
+,62889,4,Sailing,9
+,62704,3,Sailing,10
+,44730,11,Shooting,1
+,44287,9,Shooting,2
+,43533,8,Shooting,3
+,44162,7,Shooting,4
+,44767,7,Shooting,5
+,43518,7,Shooting,6
+,44708,7,Shooting,7
+,44586,6,Shooting,8
+,44704,6,Shooting,9
+,43496,6,Shooting,10
+,109931,11,Short Track Speed Skating,1
+,101555,8,Short Track Speed Skating,2
+,109918,6,Short Track Speed Skating,3
+,137698,6,Short Track Speed Skating,4
+,109921,6,Short Track Speed Skating,5
+,100218,5,Short Track Speed Skating,6
+,83084,5,Short Track Speed Skating,7
+,127580,5,Short Track Speed Skating,8
+,109911,5,Short Track Speed Skating,9
+,89605,5,Short Track Speed Skating,10
+,144430,1,Skateboarding,1
+,147458,1,Skateboarding,2
+,147456,1,Skateboarding,3
+,144433,1,Skateboarding,4
+,144431,1,Skateboarding,5
+,140825,1,Skateboarding,6
+,141263,1,Skateboarding,7
+,143068,1,Skateboarding,8
+,141168,1,Skateboarding,9
+,144702,1,Skateboarding,10
+,127791,2,Skeleton,1
+,110442,2,Skeleton,2
+,101697,2,Skeleton,3
+,111080,2,Skeleton,4
+,86531,2,Skeleton,5
+,101696,1,Skeleton,6
+,101695,1,Skeleton,7
+,86530,1,Skeleton,8
+,101700,1,Skeleton,9
+,84107,1,Skeleton,10
+,95937,5,Ski Jumping,1
+,109740,4,Ski Jumping,2
+,99870,4,Ski Jumping,3
+,119539,4,Ski Jumping,4
+,101136,4,Ski Jumping,5
+,99860,4,Ski Jumping,6
+,127867,4,Ski Jumping,7
+,98886,4,Ski Jumping,8
+,119523,4,Ski Jumping,9
+,109725,4,Ski Jumping,10
+,128400,3,Snowboarding,1
+,119642,3,Snowboarding,2
+,109860,3,Snowboarding,3
+,101100,3,Snowboarding,4
+,137770,3,Snowboarding,5
+,110950,3,Snowboarding,6
+,119838,3,Snowboarding,7
+,128021,3,Snowboarding,8
+,128763,3,Snowboarding,9
+,127529,3,Snowboarding,10
+,1352,4,Softball,1
+,1427,4,Softball,2
+,1381,4,Softball,3
+,1454,4,Softball,4
+,93203,3,Softball,5
+,93198,3,Softball,6
+,109144,3,Softball,7
+,1458,3,Softball,8
+,109125,3,Softball,9
+,93233,3,Softball,10
+,109767,13,Speed Skating,1
+,82053,9,Speed Skating,2
+,109681,9,Speed Skating,3
+,119701,8,Speed Skating,4
+,109768,7,Speed Skating,5
+,98260,7,Speed Skating,6
+,83820,7,Speed Skating,7
+,119690,6,Speed Skating,8
+,80673,6,Speed Skating,9
+,100967,6,Speed Skating,10
+,140881,1,Sport Climbing,1
+,144337,1,Sport Climbing,2
+,142500,1,Sport Climbing,3
+,146543,1,Sport Climbing,4
+,144338,1,Sport Climbing,5
+,147403,1,Sport Climbing,6
+,146391,1,Surfing,1
+,144450,1,Surfing,2
+,144704,1,Surfing,3
+,141268,1,Surfing,4
+,147263,1,Surfing,5
+,140829,1,Surfing,6
+,93860,28,Swimming,1
+,51218,12,Swimming,2
+,51217,12,Swimming,3
+,103301,12,Swimming,4
+,103585,12,Swimming,5
+,51572,11,Swimming,6
+,51266,11,Swimming,7
+,129061,11,Swimming,8
+,51378,10,Swimming,9
+,47755,10,Swimming,10
+,117509,6,Table Tennis,1
+,93957,5,Table Tennis,2
+,107509,5,Table Tennis,3
+,121929,5,Table Tennis,4
+,2317,4,Table Tennis,5
+,93956,4,Table Tennis,6
+,121928,4,Table Tennis,7
+,933,4,Table Tennis,8
+,109571,4,Table Tennis,9
+,121931,4,Table Tennis,10
+,94119,3,Taekwondo,1
+,94165,3,Taekwondo,2
+,108165,3,Taekwondo,3
+,117404,3,Taekwondo,4
+,120950,2,Taekwondo,5
+,94106,2,Taekwondo,6
+,133215,2,Taekwondo,7
+,124562,2,Taekwondo,8
+,117427,2,Taekwondo,9
+,117366,2,Taekwondo,10
+,59,5,Tennis,1
+,94425,5,Tennis,2
+,88,4,Tennis,3
+,87,4,Tennis,4
+,2416,4,Tennis,5
+,94424,4,Tennis,6
+,106,4,Tennis,7
+,2633,4,Tennis,8
+,89,4,Tennis,9
+,12,4,Tennis,10
+,116823,4,Trampolining,1
+,91267,3,Trampolining,2
+,116822,2,Trampolining,3
+,116816,2,Trampolining,4
+,130288,2,Trampolining,5
+,91569,2,Trampolining,6
+,108567,2,Trampolining,7
+,116815,2,Trampolining,8
+,133216,1,Trampolining,9
+,129692,1,Trampolining,10
+,122618,3,Triathlon,1
+,132170,2,Triathlon,2
+,143206,2,Triathlon,3
+,116219,2,Triathlon,4
+,106503,2,Triathlon,5
+,143085,2,Triathlon,6
+,94454,2,Triathlon,7
+,106104,1,Triathlon,8
+,106097,1,Triathlon,9
+,94292,1,Triathlon,10
+,18040,3,Tug-Of-War,1
+,18044,3,Tug-Of-War,2
+,18034,3,Tug-Of-War,3
+,17806,2,Tug-Of-War,4
+,66989,2,Tug-Of-War,5
+,76331,2,Tug-Of-War,6
+,18041,2,Tug-Of-War,7
+,67011,2,Tug-Of-War,8
+,18025,2,Tug-Of-War,9
+,18027,2,Tug-Of-War,10
+,52457,4,Volleyball,1
+,52988,4,Volleyball,2
+,53155,4,Volleyball,3
+,109262,4,Volleyball,4
+,52181,4,Volleyball,5
+,94811,3,Volleyball,6
+,109261,3,Volleyball,7
+,94794,3,Volleyball,8
+,52461,3,Volleyball,9
+,114256,3,Volleyball,10
+,54156,5,Water Polo,1
+,54192,4,Water Polo,2
+,54173,4,Water Polo,3
+,54171,4,Water Polo,4
+,54213,4,Water Polo,5
+,53513,4,Water Polo,6
+,54136,4,Water Polo,7
+,114221,4,Water Polo,8
+,114222,4,Water Polo,9
+,94900,4,Water Polo,10
+,57018,4,Weightlifting,1
+,116304,4,Weightlifting,2
+,55874,4,Weightlifting,3
+,55879,4,Weightlifting,4
+,56977,3,Weightlifting,5
+,94740,3,Weightlifting,6
+,56548,3,Weightlifting,7
+,55950,3,Weightlifting,8
+,55849,3,Weightlifting,9
+,56868,3,Weightlifting,10
+,58341,5,Wrestling,1
+,59868,4,Wrestling,2
+,60571,4,Wrestling,3
+,107601,4,Wrestling,4
+,116984,4,Wrestling,5
+,107562,4,Wrestling,6
+,57926,4,Wrestling,7
+,58628,4,Wrestling,8
+,60134,4,Wrestling,9
+,107550,4,Wrestling,10
