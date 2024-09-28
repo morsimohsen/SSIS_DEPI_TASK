@@ -1,3 +1,5 @@
+-- Auther: Morsi Mohsen
+
 USE Olympics;
 
 --2- Create a new table to store the average height and weight of athletes by country.
@@ -484,77 +486,70 @@ ORDER BY
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-	WITH Medal_Winners AS (
-    SELECT 
-        medal.country_noc,
-        medal.edition,
-        SUM(medal.gold + medal.silver + medal.bronze) AS total_medals
-    FROM 
-        Olympic_Games_Medal_Tally medal
-    JOIN 
-        Olympics_Games games ON medal.edition = games.edition
+--Evaluate Athlete's Peak Performance Ages and Their Influence on Medal Wins
+--Description: Create a report that finds each athlete's age at the time of their medal wins 
+--and determines the age range during which athletes are most likely to win medals. 
+--Categorize the athletes into different age brackets (under 20, 20-24, 25-29, 30-34, 35+) and 
+--count the total medals won in each bracket. Also, identify the top sport for each age bracket 
+--where athletes have won the most medals.
+WITH AthleteMedalAges AS (
+    SELECT e.athlete_id, e.sport, og.year, e.medal, a.born, 
+        (og.year - YEAR(a.born)) AS age_when_won_medal
+    FROM Olympic_Athlete_Event_Results e
+    JOIN Olympic_Athlete_Bio a ON e.athlete_id = a.athlete_id
+    JOIN Olympics_Games og ON og.edition = e.edition
     WHERE 
-        games.isHeld = @OlympicType  -- Summer or Winter (dynamic input)
-    GROUP BY 
-        medal.country_noc, medal.edition
+        e.medal IS NOT NULL
 ),
-Country_Participation AS (
+AgeCategories AS (
     SELECT 
-        games.country_noc,
-        COUNT(DISTINCT games.edition) AS total_editions
+        athlete_id,
+        sport,
+        medal,
+        age_when_won_medal,
+        CASE
+            WHEN age_when_won_medal < 20 THEN 'Below 20'
+            WHEN age_when_won_medal BETWEEN 20 AND 24 THEN '20-24'
+            WHEN age_when_won_medal BETWEEN 25 AND 29 THEN '25-29'
+            WHEN age_when_won_medal BETWEEN 30 AND 34 THEN '30-34'
+            ELSE '35 and Older' 
+        END AS categories_age
     FROM 
-        Olympics_Games games
-    WHERE 
-        games.isHeld = @OlympicType  -- Summer or Winter (dynamic input)
-    GROUP BY 
-        games.country_noc
+        AthleteMedalAges
 ),
-Consistent_Countries AS (
+MedalTallyByAgeCategory AS (
     SELECT 
-        p.country_noc,
-        p.total_editions,
-        SUM(m.total_medals) AS total_medals,
-        AVG(m.total_medals) AS avg_medals_per_edition
+        categories_age,
+        COUNT(medal) AS total_medals_count
     FROM 
-        Country_Participation p
-    JOIN 
-        Medal_Winners m ON p.country_noc = m.country_noc
-    WHERE 
-        p.total_editions = (SELECT COUNT(DISTINCT m2.edition) FROM Medal_Winners m2 WHERE m2.country_noc = p.country_noc)
+        AgeCategories
     GROUP BY 
-        p.country_noc, p.total_editions
+        categories_age
+),
+LeadingSportByAgeCategory AS (
+    SELECT 
+        categories_age,
+        sport,
+        COUNT(medal) AS sport_medal_count,
+        ROW_NUMBER() OVER (PARTITION BY categories_age ORDER BY COUNT(medal) DESC) AS position
+    FROM 
+        AgeCategories
+    GROUP BY 
+        categories_age, sport
 )
 SELECT 
-    country_noc AS country,
-    total_editions,
-    total_medals,
-    avg_medals_per_edition,
-    CASE 
-        WHEN avg_medals_per_edition > 5 THEN 'Highly Consistent'
-        WHEN avg_medals_per_edition BETWEEN 3 AND 5 THEN 'Moderately Consistent'
-        ELSE 'Inconsistent'
-    END AS consistency_classification
+    m.categories_age,
+    m.total_medals_count,
+    s.sport AS leading_sport,
+    s.sport_medal_count
 FROM 
-    Consistent_Countries
+    MedalTallyByAgeCategory m
+JOIN 
+    LeadingSportByAgeCategory s ON m.categories_age = s.categories_age
+WHERE 
+    s.position = 1
 ORDER BY 
-    total_medals DESC;
+    m.categories_age;
+
+
 
